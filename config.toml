@@ -1,3 +1,44 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://dukeellington.org.uk/"
+languageCode = "en-GB"
+title = "DESUK: The Duke Ellington Society UK"
+enableRobotsTXT = true
+
+theme = "mainroad"
+
+[Params]
+  subtitle = "Nil significat nisi pulsatur"
+  description = "Desecription"
+  copyright = "DESUK"
+  # twitter_cards = true # Enable Twitter Cards if true
+  # readmore = false # Show "Read more" button in list if true
+  # authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  post_navigation = true
+  post_meta = ["date", "categories"]
+  mainSections = ["post", "blog", "news"]
+  dateformat = "2006-01-02" # change the format of dates
+  # customCSS = ["css/custom.css"] # Include custom CSS files
+  readmore = true
+
+[Params.sidebar]
+  home = "right"
+  list = "left"
+  single = false
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  # facebook = "username"
+  # twitter = "username"
+  # instagram = "username"
+  # linkedin = "username"
+  # telegram = "username"
+  # github = "username"
+  # gitlab = "username"
+  # bitbucket = "username"
+  email = "desuk@dukeellington.org.uk"
