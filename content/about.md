@@ -2,6 +2,10 @@
 title: About
 sidebar: true
 menu: main
+
+menu:
+  main:
+    weight: 0
 ---
 
 # Duke Ellington, by Roger Boyes
@@ -54,6 +58,30 @@ In 2008 our AGM was held on Holiday Monday 26th May ahead of Ellington 2008's Fe
 We hold regular record recitals in London, where you can be sure of a friendly welcome and of hearing rare - sometimes unique - recordings in high quality. See the events page for future meetings.
 
 Other meetings are held not only in London. As a national society DESUK has a programme of talks and recitals in regional towns or cities. These are often held under the auspices of local jazz societies.
+
+# Honorary and eminent members
+
+We are proud to have the following Ellingtonian musicians as Honorary Members:
+
+* Art Baron
+* John Lamb
+* Vincent Prudente
+
+Our eminent members and associates include:
+
+* Alun Morgan *Australia*
+* Bjarne Busk *Denmark*
+* David Bradbury
+* Digby Fairweather
+* John Milner
+* Jools Holland *OBE*
+* Julian Joseph
+* Lord David Steel of Aikwood
+* Mike Westbrook *OBE*
+* Nigel Kennedy
+* Steven Lasker *USA*
+* Tony Faulkner
+* William E Timner *Canada*
 
 <!--
 Old content - do we still do this?
