@@ -3,7 +3,14 @@ languageCode = "en-GB"
 title = "DESUK: The Duke Ellington Society UK"
 enableRobotsTXT = true
 
+# This makes working in /sandbox easier
+canonifyURLs = true
+
 theme = "mainroad"
+
+# Privacy
+[youtube]
+  privacyEnhanced = true
 
 [Params]
   subtitle = "Nil significat nisi pulsatur"
@@ -20,12 +27,20 @@ theme = "mainroad"
   # customCSS = ["css/custom.css"] # Include custom CSS files
   readmore = true
 
+[[Params.blogroll]]
+  name = "The Duke Ellington Society Of Sweden"
+  url = "https://ellington.se"
+
+[[Params.blogroll]]
+  name = "The Jazz Centre UK"
+  url = "http://thejazzcentreuk.co.uk/"
+
 [Params.sidebar]
   home = "right"
   list = "left"
   single = false
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  widgets = ["search", "recent", "blogroll", "categories", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
