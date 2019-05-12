@@ -4,9 +4,9 @@ title = "DESUK: The Duke Ellington Society UK"
 enableRobotsTXT = true
 
 # This makes working in /sandbox easier
-canonifyURLs = true
 
 theme = "mainroad"
+
 
 # Privacy
 [youtube]
