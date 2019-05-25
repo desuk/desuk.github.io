@@ -19,8 +19,13 @@ theme = "mainroad"
   # twitter_cards = true # Enable Twitter Cards if true
   readmore = true
   # authorbox = true # Show authorbox at bottom of pages if true
-  toc = true # Enable Table of Contents
-  post_navigation = true
+
+  # TOC off by default
+  toc = false
+
+  # TODO: Consider re-enabling this with an order that matches the menu
+  post_navigation = false
+
   post_meta = ["date", "categories"]
   mainSections = ["post", "blog", "news"]
   dateformat = "2006-01-02" # change the format of dates
@@ -43,7 +48,8 @@ theme = "mainroad"
   list = "left"
   single = false
   # Enable widgets in given order
-  widgets = ["search", "recent", "blogroll", "categories", "taglist", "social"]
+  # TODO: Consider enabling "search"
+  widgets = ["recent", "blogroll", "categories", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget

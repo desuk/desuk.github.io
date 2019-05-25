@@ -4,7 +4,6 @@ menu:
   main:
     weight: 3
 sidebar: true
-toc: false
 ---
 
 **Blue Light** is DESUK's house journal, available to our members. [Join here]({{<relref "join.md">}}).
