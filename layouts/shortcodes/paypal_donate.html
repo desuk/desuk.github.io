@@ -1,6 +1,6 @@
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 {{ .Inner }}
-<input type="image" src="/add.png" align="top" border="0" name="submit" alt="Add to Basket">
+<input type="image" src="{{ "add.png" | absURL }}" align="top" border="0" name="submit" alt="Add to Basket">
 <input type="hidden" name="add" value="1">
 <input type="hidden" name="cmd" value="_cart"><input type="hidden" name="business" value="desukpp@gmail.com">
 <input type="hidden" name="item_name" value="{{ .Inner }}">
