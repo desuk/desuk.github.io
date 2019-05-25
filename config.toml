@@ -17,7 +17,7 @@ theme = "mainroad"
   description = "Desecription"
   copyright = "DESUK"
   # twitter_cards = true # Enable Twitter Cards if true
-  # readmore = false # Show "Read more" button in list if true
+  readmore = true
   # authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
   post_navigation = true
@@ -25,7 +25,6 @@ theme = "mainroad"
   mainSections = ["post", "blog", "news"]
   dateformat = "2006-01-02" # change the format of dates
   # customCSS = ["css/custom.css"] # Include custom CSS files
-  readmore = true
 
 [[Params.blogroll]]
   name = "The Duke Ellington Society Of Sweden"
