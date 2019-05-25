@@ -32,7 +32,11 @@ theme = "mainroad"
 
 [[Params.blogroll]]
   name = "The Jazz Centre UK"
-  url = "http://thejazzcentreuk.co.uk/"
+  url = "http://thejazzcentreuk.co.uk"
+
+[[Params.blogroll]]
+  name = "ellingtonweb.ca"
+  url = "http://ellingtonweb.ca"
 
 [Params.sidebar]
   home = "right"

@@ -2,7 +2,7 @@
 title: "Blue Light"
 menu:
   main:
-    weight: 2
+    weight: 3
 sidebar: true
 toc: false
 ---

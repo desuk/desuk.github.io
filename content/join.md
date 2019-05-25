@@ -4,7 +4,7 @@ sidebar: true
 toc: false
 menu:
   main:
-    weight: 2
+    weight: 6
 ---
 
 # Subscription fees
