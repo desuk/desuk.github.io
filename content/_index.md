@@ -20,14 +20,16 @@ Our house publication **Blue Light** is released quarterly. The content is wide 
 
 ## Non-society events
 
+Other upcoming events in the UK with an Ellington element.
+
 ### Kinda Dukish Big Band
 
-13th June 2019, Birmingham
+Thursday 13th June 2019, Birmingham
 {{< tweet 1129106295011926016 >}}
 
 ### The Vo-De-O-Do Orchestra
 
-29th May 2019, Soho, London.
+Wednesday 29th May 2019, Soho, London.
 
 Trumpeter David Jones' 11 piece band featuring authentic period jazz from the roaring twenties. [Details here.](https://www.spiceoflifesoho.com/events/events/view/1931#.XN3mSM3TWDY)
 
