@@ -15,5 +15,9 @@ fields:
   type: boolean
   description: Show/hide read more button
   label: Read more
+- name: toc
+  type: boolean
+  label: TOC
+  description: Show table of contents
 pages:
 - content/blog/ron-drotos-on-ellington.md
