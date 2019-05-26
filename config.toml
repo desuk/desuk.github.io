@@ -3,8 +3,6 @@ languageCode = "en-GB"
 title = "DESUK: The Duke Ellington Society UK"
 enableRobotsTXT = true
 
-# This makes working in /sandbox easier
-
 theme = "mainroad"
 
 
@@ -12,13 +10,16 @@ theme = "mainroad"
 [youtube]
   privacyEnhanced = true
 
+[permalinks]
+  blog = "/:year/:month/:title/"
+
 [Params]
   subtitle = "Nil significat nisi pulsatur"
-  description = "Desecription"
   copyright = "DESUK"
-  # twitter_cards = true # Enable Twitter Cards if true
+  # TODO: description (not used anywhere?)
   readmore = true
-  # authorbox = true # Show authorbox at bottom of pages if true
+
+  twitter_cards = true
 
   # TOC off by default
   toc = false
@@ -29,7 +30,6 @@ theme = "mainroad"
   post_meta = ["date", "categories"]
   mainSections = ["post", "blog", "news"]
   dateformat = "2006-01-02" # change the format of dates
-  # customCSS = ["css/custom.css"] # Include custom CSS files
 
 [[Params.blogroll]]
   name = "The Duke Ellington Society Of Sweden"
@@ -47,13 +47,13 @@ theme = "mainroad"
   home = "right"
   list = "left"
   single = false
+
   # Enable widgets in given order
-  # TODO: Consider enabling "search"
   widgets = ["recent", "blogroll", "categories", "taglist", "social"]
 
 [Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+  recent_num = 5 # Number of articles
+  tags_counter = true # Show number of post with tags
 
 [Params.widgets.social]
   # Enable parts of social widget
