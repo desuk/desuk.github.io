@@ -11,5 +11,9 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: readmore
+  type: boolean
+  description: Show/hide read more button
+  label: Read more
 pages:
 - content/blog/ron-drotos-on-ellington.md
