@@ -27,6 +27,8 @@ Our house publication **Blue Light** is released quarterly. The content is wide 
 
 ### The Vo-De-O-Do Orchestra
 
-[29th May 2019, SOHO.](https://www.spiceoflifesoho.com/events/events/view/1931#.XN3mSM3TWDY)
+29th May 2019, Soho, London.
+
+Trumpeter David Jones' 11 piece band featuring authentic period jazz from the roaring twenties. [Details here.](https://www.spiceoflifesoho.com/events/events/view/1931#.XN3mSM3TWDY)
 
 # Recent posts
