@@ -5,18 +5,19 @@ toc: false
 menu:
   main:
     weight: 6
----
 
+---
 # Subscription fees
 
 ## UK
-The annual subscription in the UK is £25 Sterling and membership will expire at the end of the calendar year in which you join. When joining you will receive the current edition of Blue Light along with any already published that year, followed by all subsequent issues for as long as you remain a member. 
+
+The annual subscription in the UK is £25 Sterling and membership will expire at the end of the calendar year in which you join. When joining you will receive the current edition of Blue Light along with any already published that year, followed by all subsequent issues for as long as you remain a member.
 
 {{<paypal alt="Join online now." item_name="DESUK Membership for this year - UK" amount="25.00">}}
 Join or renew online now
 {{</paypal>}}
 
-&nbsp;
+ 
 
 ## Non-UK (Regular)
 
@@ -26,7 +27,7 @@ The annual subscription outside the UK is £35 Sterling. Other conditions as per
 Join or renew online now
 {{</paypal>}}
 
-&nbsp;
+ 
 
 ## Non-UK (Electronic)
 
@@ -36,7 +37,7 @@ Alternatively, those outside the UK who are happy to receive Blue Light electron
 Join or renew online now
 {{</paypal>}}
 
-&nbsp;
+ 
 
 # Donations and Sponsorship
 
@@ -44,7 +45,7 @@ Support the work of DESUK
 
 There are various ways in which you can support DESUK, in addition to being a Member.
 
-We have opportunities available for sponsorship of DESUK's Events, our Newsletter Blue Light, a chart in our Music Library, or perhaps you would like to make a donation.
+We have opportunities available for sponsorship of DESUK's events, our newsletter Blue Light, a chart in our Music Library, or perhaps you would like to make a donation.
 
 You may donate to the Society by credit or debit card, or through your PayPal account. Select your choice, and then click to review your selections.
 
