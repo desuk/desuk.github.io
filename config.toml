@@ -40,8 +40,12 @@ theme = "mainroad"
   url = "http://thejazzcentreuk.co.uk"
 
 [[Params.blogroll]]
-  name = "ellingtonweb.ca"
+  name = "Ellington On The Web (Canada)"
   url = "http://ellingtonweb.ca"
+
+[[Params.blogroll]]
+  name = "Ellington Live"
+  url = "https://villesville.blogspot.com"
 
 [Params.sidebar]
   home = "right"
