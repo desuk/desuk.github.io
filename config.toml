@@ -57,7 +57,7 @@ theme = "mainroad"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  # facebook = "username"
+  facebook = "The-Duke-Ellington-Society-UK-400258490568042"
   # twitter = "username"
   # instagram = "username"
   # linkedin = "username"
