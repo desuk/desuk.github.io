@@ -16,7 +16,7 @@ Our house publication **Blue Light** is released quarterly. The content is wide 
 
 ## Next meeting
 
-8th June 2019, Civil Service Club ([map](https://goo.gl/maps/Rnxri95RcCLaJNAh6)) at 2pm. Come along, chat and hear music that is _beyond category_. The Civil Service Club has a bar and serves food.
+8th June 2019, Civil Service Club ([map](https://goo.gl/maps/Rnxri95RcCLaJNAh6)) at 2pm. Come along, chat and hear music that is _beyond category_. The Civil Service Club has a bar and serves food. Facebook event page [here](https://www.facebook.com/events/423939041520047/ "Facebook event").
 
 ## Non-society events
 
