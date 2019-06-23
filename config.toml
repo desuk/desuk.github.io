@@ -19,6 +19,8 @@ theme = "mainroad"
   # TODO: description (not used anywhere?)
   readmore = true
 
+  highlightColor = "#001ca0"
+
   twitter_cards = true
 
   # TOC off by default
