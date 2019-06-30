@@ -18,13 +18,10 @@ Our house publication **Blue Light** is released quarterly. The content is wide 
 
 Saturday 10th August 2019, Civil Service Club ([map](https://goo.gl/maps/Rnxri95RcCLaJNAh6)) at 2pm. Come along, chat and hear music that is _beyond category_. The Civil Service Club has a bar and serves food. Facebook event page [here](https://www.facebook.com/events/423939041520047/ "Facebook event").
 
+<!--
 ## Non-society events
 
 Other upcoming events in the UK with an Ellington element.
-
-### Kinda Dukish Big Band
-
-Thursday 13th June 2019, Birmingham
-{{< tweet 1129106295011926016 >}}
+ -->
 
 # Recent posts
