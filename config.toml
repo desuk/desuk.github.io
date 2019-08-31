@@ -1,5 +1,5 @@
 baseURL = "http://dukeellington.org.uk"
-languageCode = "en-GB"
+languageCode = "en"
 title = "DESUK: The Duke Ellington Society UK"
 enableRobotsTXT = true
 
@@ -33,21 +33,26 @@ theme = "mainroad"
   mainSections = ["post", "blog", "news"]
   dateformat = "2006-01-02" # change the format of dates
 
-[[Params.blogroll]]
-  name = "The Duke Ellington Society Of Sweden"
-  url = "https://ellington.se"
+[menu]
+  [[menu.side]]
+    name = "The Duke Ellington Society Of Sweden"
+    url = "https://ellington.se"
+    weight = 1
 
-[[Params.blogroll]]
-  name = "The Jazz Centre UK"
-  url = "http://thejazzcentreuk.co.uk"
+  [[menu.side]]
+    name = "The Jazz Centre UK"
+    url = "http://thejazzcentreuk.co.uk"
+    weight = 2
 
-[[Params.blogroll]]
-  name = "Ellington On The Web (Canada)"
-  url = "http://ellingtonweb.ca"
+  [[menu.side]]
+    name = "Ellington On The Web (Canada)"
+    url = "http://ellingtonweb.ca"
+    weight = 3
 
-[[Params.blogroll]]
-  name = "Ellington Live"
-  url = "https://villesville.blogspot.com"
+  [[menu.side]]
+    name = "Ellington Live"
+    url = "https://villesville.blogspot.com"
+    weight = 4
 
 [Params.sidebar]
   home = "right"
@@ -55,7 +60,7 @@ theme = "mainroad"
   single = false
 
   # Enable widgets in given order
-  widgets = ["recent", "blogroll", "categories", "taglist", "social"]
+  widgets = ["recent", "sidemenu", "categories", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Number of articles
