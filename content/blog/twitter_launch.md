@@ -5,7 +5,7 @@ tags:
   - "Books"
 readmore: false
 ---
-DESUK is now on twitter [@dukesocuk](https://twitter.com/dukesocuk)! Where better to start tweeting than *Flirtibird*?
+DESUK is now on Twitter [@dukesocuk](https://twitter.com/dukesocuk)! Where better to start tweeting than *Flirtibird*?
 
 {{< tweet 1171499295851175940 >}}
 
