@@ -69,7 +69,7 @@ theme = "mainroad"
 [Params.widgets.social]
   # Enable parts of social widget
   facebook = "dukesocuk"
-  # twitter = "username"
+  twitter = "dukesocuk"
   # instagram = "username"
   # linkedin = "username"
   # telegram = "username"
