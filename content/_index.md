@@ -26,9 +26,9 @@ Save the date: Saturday 2nd May 2020, London. Details to follow.
 
 Other upcoming events in the UK with an Ellington element.
 
-* Saturday the 12th of October: The University of Oxford's department of continuing education is running a one day course on [Ellington's Sacred Music](https://www.conted.ox.ac.uk/courses/duke-ellingtons-scred-music).
-
 * Friday 27th September, 7.30PM. Guildhall Symphony Orchestra, Chorus & Jazz Orchestra featuring excerpts of Ellington's Sacred Concerts. More details [here](https://www.gsmd.ac.uk/about_the_school/view_all_events/?tx_julleevents_pi1%5BshowUid%5D=6137).
+
+* Saturday the 12th of October: The University of Oxford's department of continuing education is running a one day course on [Ellington's Sacred Music](https://www.conted.ox.ac.uk/courses/duke-ellingtons-scred-music).
 
 Our own Frank Griffith has some [upcoming gigs](http://www.frankgriffith.co.uk/gigs/), often with an Ellingtonian twist.
 
