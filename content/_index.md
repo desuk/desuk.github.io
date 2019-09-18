@@ -30,10 +30,10 @@ Other upcoming events in the UK with an Ellington element.
 
 * Saturday the 12th of October: The University of Oxford's department of continuing education is running a one day course on [Ellington's Sacred Music](https://www.conted.ox.ac.uk/courses/duke-ellingtons-scred-music).
 
+* Saturday 7th December: The Royal College of Music's Swing Band: [The Duke Meets The Count](https://www.rcm.ac.uk/events/details/?id=1789335).
+
 Our own Frank Griffith has some [upcoming gigs](http://www.frankgriffith.co.uk/gigs/), often with an Ellingtonian twist.
 
-* 15 September, 1PM. Saxtivity (sax quartet) at the Palm House in Sefton Park.L17 1AL. Free.
-* 17 September, 8PM. FG Quartet at Wilmslow Conservative Club.  15 Grove Ave, Wilmslow, SK9  5EG. Free.
 * 6 October, 2-3PM. With Annie Long Quartet. [Williamson Art Gallery](http://www.williamsonartgallery.org). Statey Road, Birkenhead, CH43 4UE. Free.
 * 8 October, 8.30PM. Frank Griffith Trio w/Malcom Hogarth and Jonny Dale. Handyman Pub, 461 Smithdown Road, Liverpool, L15 3JL. £5.
 * 20 October, 1PM. Saxtivity (sax quartet). Elm Hall Church. Elm Hall Drive, Liverpool, L18 1JL. £5 donation.
