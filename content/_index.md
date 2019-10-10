@@ -26,16 +26,10 @@ Save the date: Saturday 2nd May 2020, London. Details to follow.
 
 Other upcoming events in the UK with an Ellington element.
 
-* Friday 27th September, 7.30PM. Guildhall Symphony Orchestra, Chorus & Jazz Orchestra featuring excerpts of Ellington's Sacred Concerts. More details [here](https://www.gsmd.ac.uk/about_the_school/view_all_events/?tx_julleevents_pi1%5BshowUid%5D=6137).
-
-* Saturday the 12th of October: The University of Oxford's department of continuing education is running a one day course on [Ellington's Sacred Music](https://www.conted.ox.ac.uk/courses/duke-ellingtons-scred-music).
-
 * Saturday 7th December: The Royal College of Music's Swing Band: [The Duke Meets The Count](https://www.rcm.ac.uk/events/details/?id=1789335).
 
 Our own Frank Griffith has some [upcoming gigs](http://www.frankgriffith.co.uk/gigs/), often with an Ellingtonian twist.
 
-* 6 October, 2-3PM. With Annie Long Quartet. [Williamson Art Gallery](http://www.williamsonartgallery.org). Statey Road, Birkenhead, CH43 4UE. Free.
-* 8 October, 8.30PM. Frank Griffith Trio w/Malcom Hogarth and Jonny Dale. Handyman Pub, 461 Smithdown Road, Liverpool, L15 3JL. £5.
 * 20 October, 1PM. Saxtivity (sax quartet). Elm Hall Church. Elm Hall Drive, Liverpool, L18 1JL. £5 donation.
 * 30 October, 8PM. Frank Griffith Quartet. Heskith Social Club. Fylde Road, Southport, PR9 9XH. 01704 809138. £5
 * 28 November, 8.30PM. FG w/Martin Hart Quartet. Hedsor Social Club, Hedsor Road, Bourne End, Bucks,SL8 5ES. £8.
