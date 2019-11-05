@@ -16,7 +16,7 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## Next meeting
 
-Saturday 12th October 2019, Civil Service Club ([map](https://goo.gl/maps/Rnxri95RcCLaJNAh6)) at 2pm. Come along, chat and hear music that is _beyond category_. The Civil Service Club has a bar and serves food. Facebook event page [here](https://www.facebook.com/events/2431609886959694/ "Facebook event").
+Saturday 14th December 2019, Civil Service Club ([map](https://goo.gl/maps/Rnxri95RcCLaJNAh6)) at 2pm. Come along, chat and hear music that is _beyond category_. The Civil Service Club has a bar and serves food. Facebook event page [here](https://www.facebook.com/events/433175060942936).
 
 ## 2020 AGM
 
