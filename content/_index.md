@@ -30,8 +30,6 @@ Other upcoming events in the UK with an Ellington element.
 
 Our own Frank Griffith has some [upcoming gigs](http://www.frankgriffith.co.uk/gigs/), often with an Ellingtonian twist.
 
-* 20 October, 1PM. Saxtivity (sax quartet). Elm Hall Church. Elm Hall Drive, Liverpool, L18 1JL. £5 donation.
-* 30 October, 8PM. Frank Griffith Quartet. Heskith Social Club. Fylde Road, Southport, PR9 9XH. 01704 809138. £5
 * 28 November, 8.30PM. FG w/Martin Hart Quartet. Hedsor Social Club, Hedsor Road, Bourne End, Bucks,SL8 5ES. £8.
 * 29 November, 1PM. FG with  Martin Litton, piano and Nils Solberg, guitar. [Brunel University](http://www.brunel.ac.uk/brunelarts), Beldam Room. Free.
 * 4 February 2020, 8.30PM. FG Quartet w/Franck Amsallem, piano, John MacCormick, bass, Danny Ward, drums. Phase One. 80 Seel Street, Liverpool, L1 4JN. £3.
