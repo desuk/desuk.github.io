@@ -8,6 +8,8 @@ sidebar: true
 
 **Blue Light** is DESUK's house journal, available to our members. [Join here]({{<relref "join.md">}}).
 
+Contributions are encouraged. For further details please see our [submission guidelines]({{<relref "blue_light_submission.md">}}).
+
 # Sample article
 
 **From Blue Light 3 / 2: _Encounters with Ellingtonia_**
