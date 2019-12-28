@@ -27,20 +27,20 @@ Current enquiries and submissions should be addressed to the Editor of Blue Ligh
 ## Fonts
 Authors should use Lato 11 pt for the text bodies and Roboto 18pt for the titles. If neither of these are available to you, the Editor will accept submissions in Times New Roman pt 11.
 
-# Margins
+## Margins
 Top, bottom and side margins should be 2cm.
 
-# Spacing
+## Spacing
 There should only be a single space between sentences (no double-spacing between paragraphs). Body text should have 1.15 line spacing with left alignment.
 
-# Indentation
+## Indentation
 The first paragraph after a heading should be aligned left and not indented. Subsequent paragraphs should be indented 0.5cm by using the document rulers within your word processing software. Please do not use spaces, tabs and/or returns to create the appearance of indentations. Doing so will cost our editors a lot of time to correct when typesetting stage.
 
 Long quotations should be italicized and indented with 0.5cm spacing.
 
 The reference list should have a 0.75cm hanging indentation (discussed below).
 
-# References
+## References
 Blue Light does not use one particular standard reference style. Reference styles such as Chicago, APA and MLA are acceptable, as long as the reference list consistently uses the chosen style, displays the full information set for the source and includes all sources cited in the text of the article. We do require that all references be positioned at the end of the article (i.e. endnotes) because Blue Light does not include footnotes.
 
 For exact specification of these reference styles, we recommend consulting [The Purdue Owl](https://owl.purdue.edu/owl/research_and_citation/resources.html).
@@ -51,18 +51,18 @@ The text in the reference section should be set Left and single spaced (Lato 10p
 
 When in doubt about reference style considerations, please consult a recent issue of Blue Light or contact the Editor.
 
-# Images & Figures
+## Images & Figures
 All images and figures must be submitted as separate files. We expect all images to be submitted in the highest possible resolution. Acceptable image formats are .tif, .png, and .jpg.
 
 Currently, Blue Light only publishes black and white photos (although we might make an exception). Our Photo Editor may adjust colours in order to balance the blacks and whites throughout an entire issue. The editor can also convert colour photos to black and white. However, if the image is of poor quality and noticeably pixilated when you submit it, then there is not much we can do about it. In most circumstances, we will not publish images of poor resolution.
 
-# Videos and sound clips
+## Videos and sound clips
 DESUK maintains a website and social media outlets. Authors are encouraged to take advantage of these by providing (for example) accompanying playlists on Spotify, YouTube or similar platforms. Please contact the Editor if you have any queries or require technical help.
 
-# Web site URLs
+## Web site URLs
 Being that the focus of Blue Light is its printed rather than online form, hyperlinks will not be included (although web addresses will). Wherever possible, use a permanent link in place of the standard URL.
 
-# Permissions & rights
+## Permissions & rights
 Permission and usage rights for media and all other files not owned by the author are the author’s responsibility, as are associated costs, if any. Please make sure all permissions are properly cited in the submission, as per any agreements with the copyright holder(s).
 
 Authors accept sole liability for the content of the article, releasing The Duke Ellington Society UK and its members from liability for any actions resulting from the content and use of the material published. It is the responsibility of the author to gain permissions and/or licenses for any copyrighted items (e.g., photos, illustrations, etc.) within a published article or other accepted work. It is the author's responsibility to obtain and keep model releases for photos of any persons used in the article whose identity can be determined from the photo.
