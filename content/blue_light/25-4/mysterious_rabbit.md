@@ -1,6 +1,6 @@
 ---
-title: "‘The Mysterious Rabbit’ (accompanying Blue Light 26/4)"
-date: 2020-01-03
+title: "'The Mysterious Rabbit' (accompanying Blue Light 26/4)"
+date: 2020-01-11
 tags:
   - "Blue Light Playlists"
 summary: "A Spotify playlist and details of tracks from 'The Mysterious Rabbit'."
@@ -17,6 +17,13 @@ To accompany the article in Blue Light, we have sourced all of the recordings an
 
 A full video of the talk can be found on the website of our friends at the [Duke Ellington Society of Sweden](https://ellington.se/2018/06/24/oldham-1988-5/).
 
+Missing from the video and the transcription in Blue Light, but unearthed from another source just just after going to press:
+
+> I’d like to mention that this is a set of thirty-two tapes of Johnny Hodges that was made up for me by my dear friend Derek Webster from his own private collection; probably one of the great Hodges collections in the world.
+>
+> --- <cite>Bob Wilber</cite>
+
+
 <iframe src="https://open.spotify.com/embed/playlist/7f4LlkQSKEUkSH9NDYHukc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 **Early Influences on Johnny Hodges:**
@@ -29,7 +36,7 @@ Syncopated Shuffle, Flaming Youth
 
 **The Romantic Period in the 1930s:**
 
-I’ll Get By, These ‘N’ That ‘N’ Those, I Cried For You, The Sunny Side Of The Street
+I’ll Get By, These ‘N’ That ‘N’ Those, I Cried For You, On The Sunny Side Of The Street
 
 **The Exotic Period in the 1940s:**
 
