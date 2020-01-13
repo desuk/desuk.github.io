@@ -26,6 +26,14 @@ Save the date: Saturday 2nd May 2020, London. Details to follow.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
+### Harmony In Harlem - Cambridge
+
+> Harmony In Harlem return to St Andrew's Street Baptiest Church in Cambridge for what is becoming an annual fixture. On Saturday 29th February 2020 our theme is Primping for the Prom from one of our new titles, but the centrepiece of the show is the challenging, rip-roaring *Diminuendo in Blue & Crescendo in Blue*. We will also feature *The Mooche*, *Clarinet Melodrama* and Billy Strayhorn's harrowing *Blood Count.*
+
+More details and tickets [here](http://www.harmonyinharlem.co.uk).
+
+### Frank's gigs
+
 Our own Frank Griffith has some [upcoming gigs](http://www.frankgriffith.co.uk/gigs/), often with an Ellingtonian twist.
 
 * 4 February 2020, 8.30PM. FG Quartet w/Franck Amsallem, piano, John MacCormick, bass, Danny Ward, drums. Phase One. 80 Seel Street, Liverpool, L1 4JN. £3.
