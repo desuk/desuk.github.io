@@ -32,6 +32,14 @@ Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellingt
 
 More details and tickets [here](http://www.harmonyinharlem.co.uk).
 
+### Mike Westbrook's Uncommon Orchestra: On Duke's Birthday
+
+Ronnie Scott's, London will host Mike Westbrook's Uncommon Orchestra on Duke Ellington's birthday, Wednesday 29th April 2020, with a piece dedicated to the Ducal anniversary.
+
+> This will be the first time that the full-scale version of the piece will have been performed in London. The fact that April 29th is Ellington’s birthday makes this an even more special occasion.
+
+Details [here](https://www.ronniescotts.co.uk/performances/view/5728-mike-westbrooks-uncommon-orchestra-perform-duke-ellington).
+
 ### Frank's gigs
 
 Our own Frank Griffith has some [upcoming gigs](http://www.frankgriffith.co.uk/gigs/), often with an Ellingtonian twist.
