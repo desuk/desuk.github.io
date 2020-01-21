@@ -42,10 +42,105 @@ Details [here](https://www.ronniescotts.co.uk/performances/view/5728-mike-westbr
 
 ### Frank's gigs
 
-Our own Frank Griffith has some [upcoming gigs](http://www.frankgriffith.co.uk/gigs/), often with an Ellingtonian twist.
+Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
 
-* 4 February 2020, 8.30PM. FG Quartet w/Franck Amsallem, piano, John MacCormick, bass, Danny Ward, drums. Phase One. 80 Seel Street, Liverpool, L1 4JN. £3.
-* 8 February 2020, 2.30-5PM. FG w/Tina May, Franck Amsallem, Steve Berry and Eryl Roberts. [Southport Jazz Festival](http://www.southportjazzfestival.com).
-* 8 February 2020, 9PM. FG with Franck Amsallem and Steve Berry. Ma Boyles, 7 Tower Gardens, The Strand, Liverpool, L3 1LG. 0151 236 0870.
+Date: 29 January 2020<br/>
+Location: Hesketh Social Club, Southport, PR9 9XH<br/>
+Time: 8.30PM<br/>
+Featuring: Frank Griffith Quartet<br/>
+Admission: Free admission<br/>
+
+Date: 31 January 2020<br/>
+Location: BBC Radio Merseyside<br/>
+Time: 7-8PM<br/>
+Featuring: Frank Griffith live interview with Jermaine Foster<br/>
+
+Date: 7 February 2020<br/>
+Location: Sefton Park Cricket Club, L17 1AA<br/>
+Time: 8PM<br/>
+Featuring: Frank Griffith Quartet with Franck Amsallem, Steve Berry and Dave Walsh<br/>
+More information: 07481 155077<br/>
+Admission: £10<br/>
+
+Date: 8 February 2020<br/>
+Location: Southport Jazz Festival<br/>
+Time: 2.30-5PM<br/>
+Featuring: Frank Griffith with Tina May, Franck Amsallem, Steve Berry, Dave Walsh<br/>
+More Information: [www.southportjazzfestival.com](http://www.southportjazzfestival.com)<br/>
+
+Date: 8 February 2020<br/>
+Location: Ma Boyles, 7 Tower Gardens, The Strand, Liverpool, L3 1LG<br/>
+Time: 9PM<br/>
+Featuring: Frank Griffith with Franck Amsallem and Steve Berry<br/>
+Admission: Free<br/>
+
+Date: 20 February 2020<br/>
+Location: Fredericks Bar, 32 Hope Street, Liverpool, L1 9BX<br/>
+Featuring: Frank Griffith with Misha Gray and Viktor Nordberg<br/>
+Admission: Free<br/>
+
+Date: 2 March 2020<br/>
+Location: Boulevard West. 7 Lord Street, Southport, PR8 1RP<br/>
+Time: 9PM<br/>
+Featuring: Frank Griffith Trio<br/>
+Admission: £15, includes supper<br/>
+More information: 01704 537263<br/>
+
+Date: 22 March 2020<br/>
+Location: Seven Arts Jazz, 31 Harrogate Road, Leeds, LS7 3PD<br/>
+Time: 1.30PM<br/>
+Featuring: Frank Griffith, Louise Gibbs and Richard Wetherall<br/>
+More information: Music of Ellington and Strayhorn [www.sevenleeds.co.uk](http://www.sevenleeds.co.uk)<br/>
+Admission: £10<br/>
+
+Date: 12 April 2020<br/>
+Location: Nantwich Jazz Festival, Crown Hotel, High St, Nantwich, CW5 5AS<br/>
+Time: 2-4PM<br/>
+Featuring: Frank Griffith Trio<br/>
+More information: 01270 625283 [www.nantwichjazz.com](http://www.nantwichjazz.com)<br/>
+
+Date: 17 April 2020<br/>
+Location: Sefton Park Cricket Club, L17 1AA<br/>
+Time: 8PM<br/>
+Featuring: "Tenors Anyone" with Frank Griffith, Phil Shotton and the Jonny Dale Trio<br/>
+More information: 07481 155077<br/>
+Admission: £5<br/>
+
+More on [Frank's website](http://www.frankgriffith.co.uk).
+
+<!--
+
+Date: 31 May 2020<br/>
+Location: The Railway Pub, 74 wellington road, Stockport, SK4 1HF<br/>
+Time: 9PM<br/>
+Featuring: Frank Griffith Quartet<br/>
+0161 477 3680<br/>
+Free<br/>
+
+Date: 16 June 2020<br/>
+Location: Wilmslow Conservative Club.15 Grove Avenue, Wilmslow, SK9 5EG<br/>
+Time: 8.30PM<br/>
+Featuring: The Frank Griffith Quartet<br/>
+More information: 01625 528336<br/>
+Admission: £8<br/>
+
+Date: 18  July June 2020<br/>
+Location: Bridport Arts Centre, South Street, Bridport, DT6 3NR<br/>
+Time: 8.00PM<br/>
+Featuring: The Frank Griffith Quartet with Guy Gardner, Stu Barker and Matt Skelton, with guest vocalist, Rachel More. Performing the music of Burt Bacharach<br/>
+More information: 01308 427183 www.bridport-arts.com<br/>
+Admission: £13<br/>
+
+Date/Time: September 8, 2020. 8.30PM<br/>
+Location: Wilmslow Conservative Club. 15 Grove, Wilmslow, SK9 5EG<br/>
+Featuring: Frank Griffith Nonet 01625 528336<br/>
+Admission: £8<br/>
+
+Date: 2 October 2020<br/>
+Location: Sefton Park Cricket Club, L17 1AA<br/>
+Time: 8PM.<br/>
+Featuring: The Frank Griffith Nonet<br/>
+
+-->
 
 # Recent posts
