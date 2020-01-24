@@ -14,9 +14,11 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
+<!--
 ## Next meeting
 
 ... will be in 2020! Happy New Year from us and watch this space.
+-->
 
 ## 2020 AGM
 
@@ -26,13 +28,37 @@ Save the date: Saturday 2nd May 2020, London. Details to follow.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
-### Harmony In Harlem - Cambridge
+### Harmony In Harlem - Cambridge 29th February
 
-> Harmony In Harlem return to St Andrew's Street Baptiest Church in Cambridge for what is becoming an annual fixture. On Saturday 29th February 2020 our theme is Primping for the Prom from one of our new titles, but the centrepiece of the show is the challenging, rip-roaring *Diminuendo in Blue & Crescendo in Blue*. We will also feature *The Mooche*, *Clarinet Melodrama* and Billy Strayhorn's harrowing *Blood Count.*
+> Harmony In Harlem return to St Andrew's Street Baptist Church in Cambridge for what is becoming an annual fixture. On Saturday 27th February 2020 our theme is Primping for the Prom from one of our new titles, but the centrepiece of the show is the challenging, rip-roaring *Diminuendo in Blue & Crescendo in Blue*. We will also feature *The Mooche*, *Clarinet Melodrama* and Billy Strayhorn's harrowing *Blood Count.*
 
 More details and tickets [here](http://www.harmonyinharlem.co.uk).
 
-### Mike Westbrook's Uncommon Orchestra: On Duke's Birthday
+### Harmony In Harlem - King's Lynn 23rd April
+
+Harmony In Harlem will be in King's Lynn on Thursday 23rd April at 7.30pm, performing Such Sweet Thunder at [St George's Guildhall](https://www.shakespearesguildhalltrust.org.uk).
+
+> The St George's Guildhall in King's Lynn is the oldest working theatre
+> in the country and also the largest surviving mediaeval guildhall.
+>
+> There's more: it is also the only existing performance venue believed to
+> have hosted William Shakespeare himself.
+>
+> To celebrate this unique connection to the Bard, Harmony In Harlem will
+> be performing Duke Ellington's Shakespeare suite "Such Sweet Thunder" at
+> St George's Guildhall - on St George's Day, Shakespeare's birthday.
+>
+> Such Sweet Thunder, composed by Duke and Billy Strayhorn in 1957, is one
+> of the most acclaimed albums in jazz, a collection of 12 vignettes of
+> Shakespearean characters some of which are sonnets in musical form.
+> Harmony In Harlem performed Such Sweet Thunder four times in 2014 and
+> 2015 and we are pleased to revive this suite, with guest performers
+> including Bob Hunt on trombone, for King's Lynn.
+
+Tickets £12. More details will be forthcoming
+[here](http://www.harmonyinharlem.co.uk).
+
+### Mike Westbrook's Uncommon Orchestra: On Duke's Birthday 29th April
 
 Ronnie Scott's, London will host Mike Westbrook's Uncommon Orchestra on Duke Ellington's birthday, Wednesday 29th April 2020, with a piece dedicated to the Ducal anniversary.
 
