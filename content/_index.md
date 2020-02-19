@@ -70,36 +70,6 @@ Details [here](https://www.ronniescotts.co.uk/performances/view/5728-mike-westbr
 
 Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
 
-Date: 29 January 2020<br/>
-Location: Hesketh Social Club, Southport, PR9 9XH<br/>
-Time: 8.30PM<br/>
-Featuring: Frank Griffith Quartet<br/>
-Admission: Free admission<br/>
-
-Date: 31 January 2020<br/>
-Location: BBC Radio Merseyside<br/>
-Time: 7-8PM<br/>
-Featuring: Frank Griffith live interview with Jermaine Foster<br/>
-
-Date: 7 February 2020<br/>
-Location: Sefton Park Cricket Club, L17 1AA<br/>
-Time: 8PM<br/>
-Featuring: Frank Griffith Quartet with Franck Amsallem, Steve Berry and Dave Walsh<br/>
-More information: 07481 155077<br/>
-Admission: £10<br/>
-
-Date: 8 February 2020<br/>
-Location: Southport Jazz Festival<br/>
-Time: 2.30-5PM<br/>
-Featuring: Frank Griffith with Tina May, Franck Amsallem, Steve Berry, Dave Walsh<br/>
-More Information: [www.southportjazzfestival.com](http://www.southportjazzfestival.com)<br/>
-
-Date: 8 February 2020<br/>
-Location: Ma Boyles, 7 Tower Gardens, The Strand, Liverpool, L3 1LG<br/>
-Time: 9PM<br/>
-Featuring: Frank Griffith with Franck Amsallem and Steve Berry<br/>
-Admission: Free<br/>
-
 Date: 20 February 2020<br/>
 Location: Fredericks Bar, 32 Hope Street, Liverpool, L1 9BX<br/>
 Featuring: Frank Griffith with Misha Gray and Viktor Nordberg<br/>
