@@ -32,7 +32,7 @@ Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellingt
 
 > Harmony In Harlem return to St Andrew's Street Baptist Church in Cambridge for what is becoming an annual fixture. On Saturday 27th February 2020 our theme is Primping for the Prom from one of our new titles, but the centrepiece of the show is the challenging, rip-roaring *Diminuendo in Blue & Crescendo in Blue*. We will also feature *The Mooche*, *Clarinet Melodrama* and Billy Strayhorn's harrowing *Blood Count.*
 
-More details and tickets [here](http://www.harmonyinharlem.co.uk).
+More details [here](http://www.harmonyinharlem.co.uk) and tickets [here](https://billetto.co.uk/e/400692).
 
 ### Harmony In Harlem - King's Lynn 23rd April
 
@@ -55,7 +55,7 @@ Harmony In Harlem will be in King's Lynn on Thursday 23rd April at 7.30pm, perfo
 > 2015 and we are pleased to revive this suite, with guest performers
 > including Bob Hunt on trombone, for King's Lynn.
 
-Tickets £12. More details will be forthcoming
+[Tickets](https://www.kingslynncornexchange.co.uk/whats-on/music/harmony-in-harlem/) £12. More details will be forthcoming
 [here](http://www.harmonyinharlem.co.uk).
 
 ### Mike Westbrook's Uncommon Orchestra: On Duke's Birthday 29th April
