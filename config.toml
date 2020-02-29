@@ -45,8 +45,8 @@ theme = "mainroad"
     weight = 2
 
   [[menu.side]]
-    name = "Ellington On The Web (Canada)"
-    url = "http://ellingtonweb.ca"
+    name = "The Duke – Where and When"
+    url = "http://tdwaw.ca"
     weight = 3
 
   [[menu.side]]
