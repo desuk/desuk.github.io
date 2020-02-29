@@ -82,6 +82,20 @@ Featuring: Frank Griffith Trio<br/>
 Admission: £15, includes supper<br/>
 More information: 01704 537263<br/>
 
+Date: 13 March 2020<br/>
+Location: Kazimier  Garden. 32 Seel St, Liverpool, L1 4BE<br/>
+Time: 6-8PM.<br/>
+Featuring: Frank Griffith Trio<br/>
+Admission: Free<br/>
+More information: 0151 792 3506 [thekazimier.co.uk](http://thekazimier.co.uk)<br/>
+
+Date: 20 March 2020<br/>
+Location: Hopscotch. Constance St, Liverpool, L3 8HB<br/>
+Time: 8.30PM.<br/>
+Featuring: Frank Griffith Trio<br/>
+Admission: Free<br/>
+More information: [www.hopscotchliverpool.com](http://www.hopscotchliverpool.com). 07985 039189<br/>
+
 Date: 22 March 2020<br/>
 Location: Seven Arts Jazz, 31 Harrogate Road, Leeds, LS7 3PD<br/>
 Time: 1.30PM<br/>
@@ -89,11 +103,30 @@ Featuring: Frank Griffith, Louise Gibbs and Richard Wetherall<br/>
 More information: Music of Ellington and Strayhorn [www.sevenleeds.co.uk](http://www.sevenleeds.co.uk)<br/>
 Admission: £10<br/>
 
+Date: 4 April 2020<br/>
+Location: Ma Boyles, 7 Tower Gardens, Liverpool, L3 1LG<br/>
+Time: 9PM<br/>
+Featuring: Frank Griffith Trio<br/>
+Admission: Free<br/>
+More information: 0151 236 0070 [www.maboyles.com](http://www.maboyles.com)<br/>
+
+Date: 10 April 2020<br/>
+Location: Blackburne House, Hope St, Liverpool, L8 7PE<br/>
+Time: 8PM<br/>
+Featuring: Frank Griffith Trio w/Eddie Binstead<br/>
+More information: 0151 709 4356<br/>
+
 Date: 12 April 2020<br/>
 Location: Nantwich Jazz Festival, Crown Hotel, High St, Nantwich, CW5 5AS<br/>
 Time: 2-4PM<br/>
 Featuring: Frank Griffith Trio<br/>
 More information: 01270 625283 [www.nantwichjazz.com](http://www.nantwichjazz.com)<br/>
+
+Date: 15 April 2020<br/>
+Location: Heskith Social Club, Southport, PR9 9XH<br/>
+Featuring: Frank Griffith Quartet<br/>
+Admission: Free<br/>
+More information: 01704 227968<br/>
 
 Date: 17 April 2020<br/>
 Location: Sefton Park Cricket Club, L17 1AA<br/>
@@ -102,15 +135,18 @@ Featuring: "Tenors Anyone" with Frank Griffith, Phil Shotton and the Jonny Dale 
 More information: 07481 155077<br/>
 Admission: £5<br/>
 
-More on [Frank's website](http://www.frankgriffith.co.uk).
-
-<!--
+Date: 26 May 2020<br/>
+Location: LIPA, Mount st, Liverpool, L1 9HF<br/>
+Time: 8PM<br/>
+Featuring: Frank Griffith guest artist with LIPA Big Band<br/>
+More information: 0151 330 3000. [www.lipa.ac.uk](http://www.lipa.ac.uk)<br/>
+Admission: Free<br/>
 
 Date: 31 May 2020<br/>
-Location: The Railway Pub, 74 wellington road, Stockport, SK4 1HF<br/>
+Location: The Railway Pub, 74 Wellington Road, Stockport, SK4 1HF<br/>
 Time: 9PM<br/>
 Featuring: Frank Griffith Quartet<br/>
-0161 477 3680<br/>
+More information: 0161 477 3680<br/>
 Free<br/>
 
 Date: 16 June 2020<br/>
@@ -120,12 +156,12 @@ Featuring: The Frank Griffith Quartet<br/>
 More information: 01625 528336<br/>
 Admission: £8<br/>
 
-Date: 18  July June 2020<br/>
+Date: 18 July June 2020<br/>
 Location: Bridport Arts Centre, South Street, Bridport, DT6 3NR<br/>
 Time: 8.00PM<br/>
-Featuring: The Frank Griffith Quartet with Guy Gardner, Stu Barker and Matt Skelton, with guest vocalist, Rachel More. Performing the music of Burt Bacharach<br/>
-More information: 01308 427183 www.bridport-arts.com<br/>
-Admission: £13<br/>
+Featuring: The Frank Griffith Quartet with Guy Gardner, Stu Barker and Matt Skelton, with guest vocalist, Rachel More. Performing the music of Burt Bacharach.<br/>
+More information: 01308 427183 [www.bridport-arts.com](http://www.bridport-arts.com)<br/>
+Admission £13<br/>
 
 Date/Time: September 8, 2020. 8.30PM<br/>
 Location: Wilmslow Conservative Club. 15 Grove, Wilmslow, SK9 5EG<br/>
@@ -134,9 +170,10 @@ Admission: £8<br/>
 
 Date: 2 October 2020<br/>
 Location: Sefton Park Cricket Club, L17 1AA<br/>
-Time: 8PM.<br/>
+Time: 8PM<br/>
 Featuring: The Frank Griffith Nonet<br/>
 
--->
+More on [Frank's website](http://www.frankgriffith.co.uk).
+
 
 # Recent posts
