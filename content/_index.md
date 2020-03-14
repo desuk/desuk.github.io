@@ -22,7 +22,11 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## 2020 AGM
 
-Save the date: Saturday 2nd May 2020, London. Details to follow.
+The DESUK Annual General Meeting had been scheduled for 2 May 2020 in London.
+
+In view of the current health uncertainty, **we are unable to confirm that this meeting will go ahead**.
+
+Updates will be posted on this website.
 
 ## Non-society events
 
@@ -69,25 +73,6 @@ Details [here](https://www.ronniescotts.co.uk/performances/view/5728-mike-westbr
 ### Frank's gigs
 
 Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
-
-Date: 20 February 2020<br/>
-Location: Fredericks Bar, 32 Hope Street, Liverpool, L1 9BX<br/>
-Featuring: Frank Griffith with Misha Gray and Viktor Nordberg<br/>
-Admission: Free<br/>
-
-Date: 2 March 2020<br/>
-Location: Boulevard West. 7 Lord Street, Southport, PR8 1RP<br/>
-Time: 9PM<br/>
-Featuring: Frank Griffith Trio<br/>
-Admission: £15, includes supper<br/>
-More information: 01704 537263<br/>
-
-Date: 13 March 2020<br/>
-Location: Kazimier  Garden. 32 Seel St, Liverpool, L1 4BE<br/>
-Time: 6-8PM.<br/>
-Featuring: Frank Griffith Trio<br/>
-Admission: Free<br/>
-More information: 0151 792 3506 [thekazimier.co.uk](http://thekazimier.co.uk)<br/>
 
 Date: 20 March 2020<br/>
 Location: Hopscotch. Constance St, Liverpool, L3 8HB<br/>
