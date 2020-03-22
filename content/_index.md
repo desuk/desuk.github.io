@@ -22,21 +22,17 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## 2020 AGM
 
-The DESUK Annual General Meeting had been scheduled for 2 May 2020 in London.
+The DESUK Annual General Meeting had been scheduled for Saturday, 2 May 2020. In view of the current health uncertainty  this meeting will not take place, nor can we give any indication of an alternative time.
 
-In view of the current health uncertainty, **we are unable to confirm that this meeting will go ahead**.
+As selection of a new Committee would normally have taken place at the AGM, all current committee members have indicated their willingness to continue in office until such time as normal business can be resumed, In this way we anticipate that DESUK features such as Blue Light can appear in the normal manner.
 
-Updates will be posted on this website.
+Please refer to the DESUK website for current information.
+
+--- *Mike Coates, DESUK Chairman*
 
 ## Non-society events
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
-
-### Harmony In Harlem - Cambridge 29th February
-
-> Harmony In Harlem return to St Andrew's Street Baptist Church in Cambridge for what is becoming an annual fixture. On Saturday 27th February 2020 our theme is Primping for the Prom from one of our new titles, but the centrepiece of the show is the challenging, rip-roaring *Diminuendo in Blue & Crescendo in Blue*. We will also feature *The Mooche*, *Clarinet Melodrama* and Billy Strayhorn's harrowing *Blood Count.*
-
-More details [here](http://www.harmonyinharlem.co.uk) and tickets [here](https://billetto.co.uk/e/400692).
 
 ### Harmony In Harlem - King's Lynn 23rd April
 
@@ -73,20 +69,6 @@ Details [here](https://www.ronniescotts.co.uk/performances/view/5728-mike-westbr
 ### Frank's gigs
 
 Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
-
-Date: 20 March 2020<br/>
-Location: Hopscotch. Constance St, Liverpool, L3 8HB<br/>
-Time: 8.30PM.<br/>
-Featuring: Frank Griffith Trio<br/>
-Admission: Free<br/>
-More information: [www.hopscotchliverpool.com](http://www.hopscotchliverpool.com). 07985 039189<br/>
-
-Date: 22 March 2020<br/>
-Location: Seven Arts Jazz, 31 Harrogate Road, Leeds, LS7 3PD<br/>
-Time: 1.30PM<br/>
-Featuring: Frank Griffith, Louise Gibbs and Richard Wetherall<br/>
-More information: Music of Ellington and Strayhorn [www.sevenleeds.co.uk](http://www.sevenleeds.co.uk)<br/>
-Admission: £10<br/>
 
 Date: 4 April 2020<br/>
 Location: Ma Boyles, 7 Tower Gardens, Liverpool, L3 1LG<br/>
