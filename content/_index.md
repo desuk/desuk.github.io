@@ -14,11 +14,9 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
-<!--
-## Next meeting
+## Duke's Birthday Live Broadcast!
 
-... will be in 2020! Happy New Year from us and watch this space.
--->
+On Duke Ellington's birthday, the 29th of April, we will be attempting something special: a live broadcast at 4pm BST (UTC+1). We're still working out the details; these will be announced on Facebook and Twitter nearer the time. See you there!
 
 ## 2020 AGM
 
@@ -69,38 +67,6 @@ Details [here](https://www.ronniescotts.co.uk/performances/view/5728-mike-westbr
 ### Frank's gigs
 
 Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
-
-Date: 4 April 2020<br/>
-Location: Ma Boyles, 7 Tower Gardens, Liverpool, L3 1LG<br/>
-Time: 9PM<br/>
-Featuring: Frank Griffith Trio<br/>
-Admission: Free<br/>
-More information: 0151 236 0070 [www.maboyles.com](http://www.maboyles.com)<br/>
-
-Date: 10 April 2020<br/>
-Location: Blackburne House, Hope St, Liverpool, L8 7PE<br/>
-Time: 8PM<br/>
-Featuring: Frank Griffith Trio w/Eddie Binstead<br/>
-More information: 0151 709 4356<br/>
-
-Date: 12 April 2020<br/>
-Location: Nantwich Jazz Festival, Crown Hotel, High St, Nantwich, CW5 5AS<br/>
-Time: 2-4PM<br/>
-Featuring: Frank Griffith Trio<br/>
-More information: 01270 625283 [www.nantwichjazz.com](http://www.nantwichjazz.com)<br/>
-
-Date: 15 April 2020<br/>
-Location: Heskith Social Club, Southport, PR9 9XH<br/>
-Featuring: Frank Griffith Quartet<br/>
-Admission: Free<br/>
-More information: 01704 227968<br/>
-
-Date: 17 April 2020<br/>
-Location: Sefton Park Cricket Club, L17 1AA<br/>
-Time: 8PM<br/>
-Featuring: "Tenors Anyone" with Frank Griffith, Phil Shotton and the Jonny Dale Trio<br/>
-More information: 07481 155077<br/>
-Admission: £5<br/>
 
 Date: 26 May 2020<br/>
 Location: LIPA, Mount st, Liverpool, L1 9HF<br/>
