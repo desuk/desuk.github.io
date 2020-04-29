@@ -18,6 +18,10 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 On Duke Ellington's birthday, the 29th of April, we will be attempting something special: a live broadcast at 4pm BST (UTC+1). We're still working out the details; these will be announced on Facebook and Twitter nearer the time. See you there!
 
+**Update**: Link to view the broadcast: https://www.pscp.tv/AP64740207/
+
+We also have a public *Discord* chatroom which might be useful in the event of any difficulties, or if you just fancy some Ducal chat: https://discord.gg/efQNUMa
+
 ## 2020 AGM
 
 The DESUK Annual General Meeting had been scheduled for Saturday, 2 May 2020. In view of the current health uncertainty  this meeting will not take place, nor can we give any indication of an alternative time.
