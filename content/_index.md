@@ -14,11 +14,11 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
-## Duke's Birthday Live Broadcast!
+## DESUK Live Broadcast: Uptown Lockdown
 
-On Duke Ellington's birthday, the 29th of April, we will be attempting something special: a live broadcast at 4pm BST (UTC+1). We're still working out the details; these will be announced on Facebook and Twitter nearer the time. See you there!
+We've got another live broadcast on Wednesday the 6th of May, 17:00 London time. More details [on Facebook](https://www.facebook.com/events/669957820468919/).
 
-**Update**: Link to view the broadcast: https://www.pscp.tv/AP64740207/
+Link to view the broadcast: https://www.pscp.tv/AP64740207/
 
 We also have a public *Discord* chatroom which might be useful in the event of any difficulties, or if you just fancy some Ducal chat: https://discord.gg/efQNUMa
 
