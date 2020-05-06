@@ -36,38 +36,6 @@ Please refer to the DESUK website for current information.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
-### Harmony In Harlem - King's Lynn 23rd April
-
-Harmony In Harlem will be in King's Lynn on Thursday 23rd April at 7.30pm, performing Such Sweet Thunder at [St George's Guildhall](https://www.shakespearesguildhalltrust.org.uk).
-
-> The St George's Guildhall in King's Lynn is the oldest working theatre
-> in the country and also the largest surviving mediaeval guildhall.
->
-> There's more: it is also the only existing performance venue believed to
-> have hosted William Shakespeare himself.
->
-> To celebrate this unique connection to the Bard, Harmony In Harlem will
-> be performing Duke Ellington's Shakespeare suite "Such Sweet Thunder" at
-> St George's Guildhall - on St George's Day, Shakespeare's birthday.
->
-> Such Sweet Thunder, composed by Duke and Billy Strayhorn in 1957, is one
-> of the most acclaimed albums in jazz, a collection of 12 vignettes of
-> Shakespearean characters some of which are sonnets in musical form.
-> Harmony In Harlem performed Such Sweet Thunder four times in 2014 and
-> 2015 and we are pleased to revive this suite, with guest performers
-> including Bob Hunt on trombone, for King's Lynn.
-
-[Tickets](https://www.kingslynncornexchange.co.uk/whats-on/music/harmony-in-harlem/) £12. More details will be forthcoming
-[here](http://www.harmonyinharlem.co.uk).
-
-### Mike Westbrook's Uncommon Orchestra: On Duke's Birthday 29th April
-
-Ronnie Scott's, London will host Mike Westbrook's Uncommon Orchestra on Duke Ellington's birthday, Wednesday 29th April 2020, with a piece dedicated to the Ducal anniversary.
-
-> This will be the first time that the full-scale version of the piece will have been performed in London. The fact that April 29th is Ellington’s birthday makes this an even more special occasion.
-
-Details [here](https://www.ronniescotts.co.uk/performances/view/5728-mike-westbrooks-uncommon-orchestra-perform-duke-ellington).
-
 ### Frank's gigs
 
 Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
