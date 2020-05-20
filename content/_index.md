@@ -16,11 +16,9 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## DESUK Live Broadcast: Uptown Lockdown
 
-We've got another live broadcast on Wednesday the 13th of May, 17:00 London time. More details [on Facebook](https://www.facebook.com/events/699066000855739/).
+We're doing live broadcasts on Wednesday afternoons, 17:00 London time. We will be discussing matters Ellington and Strayhorn, playing tracks as well as a bit of live versions of their music.
 
-Link to view the broadcast: https://www.pscp.tv/AP64740207/
-
-If you miss the broadcast just follow that link to watch and listen to the recording.
+Link to view the broadcasts: https://www.pscp.tv/AP64740207/. You can join us live or watch them afterwards at the same address.
 
 We also have a public *Discord* chatroom which might be useful in the event of any difficulties, or if you just fancy some Ducal chat: https://discord.gg/efQNUMa
 
