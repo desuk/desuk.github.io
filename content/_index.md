@@ -40,13 +40,6 @@ Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellingt
 
 Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
 
-Date: 26 May 2020<br/>
-Location: LIPA, Mount st, Liverpool, L1 9HF<br/>
-Time: 8PM<br/>
-Featuring: Frank Griffith guest artist with LIPA Big Band<br/>
-More information: 0151 330 3000. [www.lipa.ac.uk](http://www.lipa.ac.uk)<br/>
-Admission: Free<br/>
-
 Date: 31 May 2020<br/>
 Location: The Railway Pub, 74 Wellington Road, Stockport, SK4 1HF<br/>
 Time: 9PM<br/>
