@@ -60,7 +60,7 @@ theme = "mainroad"
   single = false
 
   # Enable widgets in given order
-  widgets = ["recent", "sidemenu", "categories", "taglist", "social"]
+  widgets = ["recent", "sidemenu", "categories", "discord", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Number of articles
