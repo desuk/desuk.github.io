@@ -40,27 +40,6 @@ Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellingt
 
 Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
 
-Date: 31 May 2020<br/>
-Location: The Railway Pub, 74 Wellington Road, Stockport, SK4 1HF<br/>
-Time: 9PM<br/>
-Featuring: Frank Griffith Quartet<br/>
-More information: 0161 477 3680<br/>
-Free<br/>
-
-Date: 16 June 2020<br/>
-Location: Wilmslow Conservative Club.15 Grove Avenue, Wilmslow, SK9 5EG<br/>
-Time: 8.30PM<br/>
-Featuring: The Frank Griffith Quartet<br/>
-More information: 01625 528336<br/>
-Admission: £8<br/>
-
-Date: 18 July June 2020<br/>
-Location: Bridport Arts Centre, South Street, Bridport, DT6 3NR<br/>
-Time: 8.00PM<br/>
-Featuring: The Frank Griffith Quartet with Guy Gardner, Stu Barker and Matt Skelton, with guest vocalist, Rachel More. Performing the music of Burt Bacharach.<br/>
-More information: 01308 427183 [www.bridport-arts.com](http://www.bridport-arts.com)<br/>
-Admission £13<br/>
-
 Date/Time: September 8, 2020. 8.30PM<br/>
 Location: Wilmslow Conservative Club. 15 Grove, Wilmslow, SK9 5EG<br/>
 Featuring: Frank Griffith Nonet 01625 528336<br/>
