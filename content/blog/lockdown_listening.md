@@ -17,6 +17,7 @@ Running out of Ellington (or Jazz in general) to listen to? Here are a few sugge
 * A *Soundie* of [It Don't Mean A Thing](https://www.youtube.com/watch?v=qDQpZT3GhDg)
 * [Good Queen Bess](https://www.youtube.com/watch?v=M6rro3rTiCs) (largely because it's stuck in your webmaster's head)
 * The Jazz Centre UK has been publishing general interest Jazz playlists, one per decade from the 20s onwards, as well as their own Ellington playlist [here](https://open.spotify.com/user/205j0la1ig5idbd08ogaaneca?si=HYTp2NECQpaWUdA5NzCE6w).
+* Ellington Live has collated the videos of [Art Baron](https://villesville.blogspot.com/2020/05/art-and-ellington.html) in conversation on Ellington. [Ellington Live](https://villesville.blogspot.com) is well worth a general browse for all sorts of gems.
 
 Got any more suggetions? Post them in our Discord chatroom at https://discord.gg/efQNUMa
 <!--more-->
