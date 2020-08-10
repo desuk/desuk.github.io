@@ -6,7 +6,6 @@ menu: main
 menu:
   main:
     weight: 0
-toc: true
 ---
 
 # Duke Ellington, by Roger Boyes
