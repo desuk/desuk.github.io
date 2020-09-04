@@ -6,29 +6,42 @@ menu:
 sidebar: true
 ---
 
-**Blue Light** is DESUK's house journal, available to our members. [Join here]({{<relref "join.md">}}).
+# Blue Light
 
-Contributions are encouraged. For further details please see our [submission guidelines]({{<relref "blue_light_submission.md">}}).
+Blue Light is the peer-reviewed quarterly journal of the Duke Ellington Society
+UK. Established in 1994, Blue Light continues to connect, entertain and inform
+by presenting research, news, reviews and recollections. Blue Light is
+acclaimed for publishing articles by the world’s most knowledgeable Ellington
+scholars and for giving space for voices with opposing viewpoints and
+backgrounds.
 
-# Sample article
+Blue Light is a premier benefit of membership to the Duke Ellington Society UK
+and members ([join here]({{<relref "join.md">}})) can choose whether to receive
+their copy through the post or digitally as a PDF.
 
-**From Blue Light 3 / 2: _Encounters with Ellingtonia_**
+## Contributing
 
-David Redshaw recalls his first experience of hearing the Elliington orchestra live - and meeting one of its trumpet players with a taste for practical jokes.
+We welcome contributions from DESUK members and non-members. If you would like
+to submit an editorial or an article for consideration, please email the Editor
+with an informal proposal of what you would like to contribute. Please refer to
+the [Submission Guidelines]({{<relref "blue_light_submission.md">}}) if writing
+an article.
 
-Prior to 1963 Ellington was to me no more than the name of a composer of tunes sometimes played by the Trad bands of the time. I had also heard one or two Ellington numbers played by such bands as the Temperance Seven who performed note-for-note recreations of early recordings. I noticed however that Ellington themes were always unusual, attractive and had a certain intriguing quality. My interest in jazz had grown mainly through exposure to the British Trad bands that were then so popular but I had listened to some more modern jazz and found little that attracted me at the time.
+Letters to the Editor, Event Listings, Reviews and Reminiscing submissions are
+typically included in the issue following the copy date. Articles containing
+research are subject to peer review and may therefore take longer to be
+published.
 
-When I found that the Duke Ellington orchestra was to appear at the Colston Hall in Bristol that year, it appeared to be an opportunity too good to miss although I did have my reservations. The question was. How would I find the Ellington band? Would they still be playing the numbers I was slightly familiar with such as Rockin' In Rhythm and Shout 'Em Aunt Tillie or would they have moved on to play music which was too obscure for my ears?
+## Copy Deadlines
 
-At the time the Colston Hall regularly offered seats in the choir stalls. Whilst these were to the side of or behind the musicians, they were also inexpensive. I arrived well before the concert was due to start and settled into my seat only to decide that a visit to the Gents was necessary. The usual facilities were at the front of the Hall and I was a long way from them. The passages behind and underneath the Hall were narrow with concrete floors and bare plaster walls. With nothing to absorb sound they were more like tunnels.
+In order to have the time to carefully produce each issue of Blue Light, we
+have established the following cut-off dates for submissions. Please send your
+copy as early as possible.
 
-In trying to find my way I wandered past the artists' changing rooms, not quite knowing where I was. At one point a smallish but very thick-set man asked me where I was going and gave me some general directions. On my way back he was still there with trumpet in hand and he spoke to me briefly as I passed. I had moved on no more than a few yards when I was hit squarely on the back of the head by the loudest and most piercing notes I had ever experienced - greatly enhanced by the tunnel acoustics of course. I use the word 'hit' because that is how it felt. I turned to see pure delight on the face of the unknown musician whose wide grin showed that he had enjoyed seeing me jump. It was my first heart-stopping moment listening to an Ellingtonian. The power of those few notes was incredible. I soon found out why.
-
-Yes, the band did still play Rockin' In Rhythm and towards the end of that number I found out why those trumpet notes had been so devastating. The musician who had played them was Cat Anderson. He filled the Hall with his high notes without amplification and over the top of the entire orchestra in full flight. Cat seems to have acquired a reputation for being a little difficult to deal with but I had found him to be affable and possessed of a sense of humour - for practical jokes at least.
-
-I have two further memories of that first concert from my seat which was nicely situated behind, but overlooking, the piano keyboard. Firstly one of Duke himself as he swayed at the piano or padded around in his stage slippers, while having a deal of trouble adjusting his trousers, chewing and watching the band and the audience with those worldly eyes. As so many others did, I found him to be one of those people who capture your attention and hold you fascinated. I still remember his piano part on Asphalt Jungle which so amazed me at the time.
-
-Secondly I recall vividly the look on the faces of one section of the audience whenever Johnny Hodges played a solo: fanatical enthusiasm is an inadequate description. On that occasion I only saw Hodges from behind but I later discovered that the look on his own face contrasted greatly with the animated expressions of his fans. I can still see them in my mind's eye... 
+* Spring: 15 February
+* Summer: 15 May
+* Autumn: 15 August
+* Winter: 15 Nov
 
 # Index to issues
 
@@ -176,3 +189,13 @@ Secondly I recall vividly the look on the faces of one section of the audience w
 * Volume 25 / 2 Conservatory Without Walls: Ellingtonia in Academia (Ian Bradley); The Duke & I (Arthur W. Galston); Jazz Goes to Collage (sic): Duke Ellington, Percy Grainger and the Status of Jazz in the Academy (Ethan Hine); The Sacred and the Profound (Ian Bradley); Ellingtonia Moves Forward (Frank Griffith); 25th Duke Ellington Study Group Conference Schedule (Supplement).
 * Volume 25 / 3 Bournevilles Ville is the place, man… (Frank Griffith); Ellington’s “Secret Sessions” in Toronto, June 1972 (Jack Chambers); “A Beautiful Human Being”: Celebrating the Centenary of James Harvey Blanton Jr. (Matthias Heyman).
 * Volume 25 / 4 Ian Bradley signs off as Editor; Meet the Duke (Jack Sher); Duke Ellington, Billy Strayhorn and the Adventures of Peer Gynt in America (Anna Celenza); Sir John and the Duke (Frank Griffith). 
+
+## 2019
+* Volume 26 / 1 Duke Ellington Headed for Newport (Roger Boyes); Monsignor John Sanders (Roger Boyes); Billy Strayhorn: Composer of the Week - BBC Radio 3 (Quentin Bryer); The Protean Imagination of Duke Ellington: The Early Years (AJ Bishop); The Coventry Cathedral Concert (Cormac Loane).
+* Volume 26 / 2 Denver 15 July 1942 (Roger Boyes); ‘Sherman Shuffle’ Chicago and the Midwest, Summer 1942 (Roger Boyes); Reviews of ‘Jazz potpourri’ Guildhall Jazz Orchestra Opens the Guildhall Jazz Festival (Patrick Olsen), ‘Echoes of Ellington’ Jazz Planets in Bury St Edmunds (Roger Boyes).
+* Volume 26 / 3 Duke and Tucaret (Brian Priestley); Cabin in the Sky (Roger Boyes); In Response to A.J. Bishop’s ‘The Protean Imagination of Duke Ellington’ (Roger Boyes); Review of Cambridge Companion to Duke Ellington (Frank Griffith).
+* Volume 26 / 4 Bob Wilber – The Ellington Connection at Ellington ’85 and ’88 (Elaine Marsh); The Mysterious Rabbit – Bob Wilber’s Presentation at Ellington ’88 (Bob Wilber, Transcribed by Patrick Olsen); Review of Rabbit’s Blues: the Life and Music of Johnny Hodges by Con Chapman (Gareth Evans); Reminiscing: Duke’s Stride Piano (Roger Offord); Cabin in the Sky Part 2 (Roger Boyes); Review of Alan Barnes and Mark Nightingale at the Hunter Club.
+
+## 2020
+* Volume 27 / 1 Hodges - Part the Next (Brian Priestley); Reminiscing: Duke’s Stride Piano Part 2 (Roger Boyes); DESUK at Documenting Jazz Conference (Frank Griffith); On Duke’s Birthday (Mike Westbrook); Black, Brown and Beige, Winter 1943 (Roger Boyes); Upcoming major events including Uncommon Orchestra’s ‘On Duke’s Birthday’ and Harmony in Harlem.
+* Volume 27 / 2 Uptown Lockdown: Let the Zoomers Drool (Ian Bradley); On Duke’s Birthday (Roger Boyes); Recording reviews of David Berger and the Sultans of Sing (Frank Griffith) and Black, Brown and Beige: Jazz at Lincoln Center Orchestra (Brian Priestley); Reminiscing includes: ‘Kina Stride-ish’ and ‘Otto &amp; the Creeper’ (Roger Offord), …And Finally, ‘Lotus Blossom’ (Peter Gardiner); Canonical Ellington (Gareth Evans); “That’s My Satin Doll”: Authorship, Originality, and the Copyright Dispute Over “Satin Doll” (Katherine Leo); The Story Behind The Picture: Gerald Lascelles and Duke Ellington (Patrick Olsen).
