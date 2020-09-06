@@ -23,7 +23,7 @@ their copy through the post or digitally as a PDF.
 
 We welcome contributions from DESUK members and non-members. If you would like
 to submit an editorial or an article for consideration, please email the Editor
-with an informal proposal of what you would like to contribute. Please refer to
+(olsen_patrick[AT]hotmail[DOT]com). with an informal proposal of what you would like to contribute. Please refer to
 the [Submission Guidelines]({{<relref "blue_light_submission.md">}}) if writing
 an article.
 
