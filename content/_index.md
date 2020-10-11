@@ -38,21 +38,5 @@ Please refer to the DESUK website for current information.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
-### Frank's gigs
-
-Our own Frank Griffith has numerous [upcoming gigs](http://www.frankgriffith.co.uk), often with an Ellingtonian twist.
-
-Date/Time: September 8, 2020. 8.30PM<br/>
-Location: Wilmslow Conservative Club. 15 Grove, Wilmslow, SK9 5EG<br/>
-Featuring: Frank Griffith Nonet 01625 528336<br/>
-Admission: £8<br/>
-
-Date: 2 October 2020<br/>
-Location: Sefton Park Cricket Club, L17 1AA<br/>
-Time: 8PM<br/>
-Featuring: The Frank Griffith Nonet<br/>
-
-More on [Frank's website](http://www.frankgriffith.co.uk).
-
 
 # Recent posts
