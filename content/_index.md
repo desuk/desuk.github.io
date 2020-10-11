@@ -20,6 +20,10 @@ We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time. We w
 
 More details on how to view and participate are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
 
+## Chat to us
+
+We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
+
 ## 2020 AGM
 
 The DESUK Annual General Meeting had been scheduled for Saturday, 2 May 2020. In view of the current health uncertainty  this meeting will not take place, nor can we give any indication of an alternative time.
