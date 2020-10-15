@@ -16,7 +16,9 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## DESUK Live Broadcast: Uptown Lockdown
 
-**UPDATE** [Uptown Lockdown]({{<relref uptown_lockdown>}}) is temporarily suspended due to its host and producer being indisposed - it will not be broadcast on Wednesday 14th October 2020. On the plus side, now is a great time to catch up on any episodes you missed [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
+We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time. We will be discussing matters Ellington and Strayhorn, playing tracks as well as a bit of live versions of their music. You can catch up at any time later.
+
+More details on how to view and participate are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
 
 ## Chat to us
 
