@@ -12,7 +12,7 @@ publishDir = "build"
   privacyEnhanced = true
 
 [permalinks]
-  blog = "/:year/:month/:title/"
+  blog = "/:year/:month/:slug/"
 
 [Params]
   subtitle = "Nil significat nisi pulsatur"
