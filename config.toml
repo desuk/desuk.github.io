@@ -11,9 +11,10 @@ publishDir = "build"
 [youtube]
   privacyEnhanced = true
 
-[permalinks]
-  "/" = "/:slug/"
-  blog = "/:year/:month/:slug/"
+# TODO: This is broken
+# [permalinks]
+#   "/" = "/:title/"
+#   blog = "/blog/:year/:month/:slug/"
 
 [Params]
   subtitle = "Nil significat nisi pulsatur"
