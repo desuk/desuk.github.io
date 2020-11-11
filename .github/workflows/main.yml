@@ -18,7 +18,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2.4.13
         with:
-          hugo-version: '0.75.1'
+          # Later versions break blue_light/ as a directory :(
+          hugo-version: '0.55.4'
           # extended: true
 
       - name: Build
