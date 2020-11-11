@@ -1,12 +1,17 @@
 ---
 title: "Blue Light"
+
+# This is technically a "list" page, as it should list the BL subpages at the
+# bottom. We suppress this by setting it to "single", then setting suppressdate
+# (a local mod to mainroad) to stop the date being inherited by a child page.
+layout: "single"
+suppressdate: true
+
 menu:
   main:
     weight: 3
 sidebar: true
 ---
-
-# Blue Light
 
 Blue Light is the peer-reviewed quarterly journal of the Duke Ellington Society
 UK. Established in 1994, Blue Light continues to connect, entertain and inform
