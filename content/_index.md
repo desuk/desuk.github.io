@@ -16,6 +16,8 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## DESUK Live Broadcast: Uptown Lockdown
 
+**Note the broadcast on Wednesday the 18th of November will be** [**via Facebook**](https://www.facebook.com/dukesocuk) **rather than the usual Periscope.**
+
 We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time. We will be discussing matters Ellington and Strayhorn, playing tracks as well as a bit of live versions of their music. You can catch up at any time later.
 
 More details on how to view and participate are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
@@ -32,11 +34,10 @@ As selection of a new Committee would normally have taken place at the AGM, all 
 
 Please refer to the DESUK website for current information.
 
---- *Mike Coates, DESUK Chairman*
+\--- _Mike Coates, DESUK Chairman_
 
 ## Non-society events
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
-
 
 # Recent posts

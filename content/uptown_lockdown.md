@@ -1,10 +1,12 @@
 ---
-title: "Uptown Lockdown"
+title: Uptown Lockdown
+sidebar: true
 menu:
   main:
-    weight: 3.1
-sidebar: true
+    weight: 3
+
 ---
+**Note the broadcast on Wednesday the 18th of November will be** [**via Facebook**](https://www.facebook.com/dukesocuk) **rather than the usual Periscope.**
 
 Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. Currently broadcasting at 5pm every Wednesday, London time.
 
@@ -12,7 +14,7 @@ Link to view the broadcasts at this address: https://www.pscp.tv/AP64740207/. Yo
 
 Past episodes are available [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
 
-We also have a public *Discord* chatroom which might be useful in the event of any difficulties, or if you just fancy some Ducal chat: https://discord.gg/efQNUMa
+We also have a public _Discord_ chatroom which might be useful in the event of any difficulties, or if you just fancy some Ducal chat: https://discord.gg/efQNUMa
 
 If you've enjoyed the show and want to help cover our costs, we encourage a small donation by PayPal:
 {{<ul_paypal>}}
