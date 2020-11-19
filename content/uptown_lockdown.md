@@ -6,7 +6,6 @@ menu:
     weight: 3
 
 ---
-**Note the broadcast on Wednesday the 18th of November will be** [**via Facebook**](https://www.facebook.com/dukesocuk) **rather than the usual Periscope.**
 
 Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. Currently broadcasting at 5pm every Wednesday, London time.
 
