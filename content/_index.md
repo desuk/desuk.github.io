@@ -38,4 +38,8 @@ Please refer to the DESUK website for current information.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
+## Recent Tweets
+
+{{<tweets tweet-limit="1">}}
+
 # Recent posts
