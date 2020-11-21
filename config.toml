@@ -11,10 +11,11 @@ publishDir = "build"
 [youtube]
   privacyEnhanced = true
 
-# TODO: This is broken
-# [permalinks]
-#   "/" = "/:title/"
-#   blog = "/blog/:year/:month/:slug/"
+[permalinks]
+  # For compatibility put :slug here (which defaults to :title and uses
+  # minues). I'd have preferred to use :filename in retrospect to avoid
+  # confusion.
+  blog = "/:year/:month/:slug/"
 
 [Params]
   subtitle = "Nil significat nisi pulsatur"
