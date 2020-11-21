@@ -9,7 +9,7 @@ suppressdate: true
 
 menu:
   main:
-    weight: 3
+    weight: 2
 sidebar: true
 ---
 

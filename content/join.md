@@ -4,35 +4,39 @@ sidebar: true
 toc: false
 menu:
   main:
-    weight: 6
+    weight: 1
 
 ---
 # Why Join?
 
-Members receive a copy of our acclaimed magazine *Blue Light* four times a year.
-
-By joining you'll also help the society's activities:
+By joining you will a copy of our acclaimed magazine [Blue Light]({{<relref blue_light>}}) four times a year. You will be able to attend our events and our AGM, and you will be supporting the society's activities:
 
 * Research for *Blue Light*
 * Our broadcasts of *Uptown Lockdown*
 * Supporting projects related to Ellingtonia, such as conferences and public concerts
 * Public meetings and listening sessions
 
-# Join up!
+# Join up or Renew your Membership
 
-An annual membership costs £25 for UK residents and includes all four copies of *Blue Light* published that year (even if you join late in the year).
+Please select from one of the three membership options:
 
-The fee for overseas members is £35 to cover the cost of international postage, and is otherwise identical to UK membership.
+* UK Membership: An annual membership costs £25 for UK residents and includes all four copies of *Blue Light* published that year (even if you join late in the year).
 
-Overseas members may choose to receive *Blue Light* electronically rather than via post, in which case the fee is reduced to £25.
+* Overseas Membership: Exactly the same, but a slightly higher cost to cover international shipping.
+
+* Overseas Digital Membership: For overseas residents who are happy to receive *Blue Light* in electronic (PDF) form instead of via post.
+
+We accept secure payment via PayPal or from all major cards. Click "Pay with PayPal" if you have a PayPal account, otherwise click "Debit or Credit Card" to pay with a card.
 
 {{<paypal>}}
 
+Alternatively you can pay by bank transfer or standing order. Send us an email at {{<desuk_email>}} and we will send you the details and activate your subscription.
+
 # Donations and Sponsorship
 
-If you'd like to further support DESUK's work, you can make a donation via PayPal:
+If you'd like to further support DESUK's work, you can make a donation via the button below (either using PayPal or a credit or debit card):
 
 {{<paypal_donate>}}
 
-Alternatively, please get in touch with us via email at <a href="mailto:desuk@dukeellington.org.uk">desuk@dukeellington.org.uk</a>. Please also contact us if you would be interested in sponsorship opportunities.
+To donate via bank transfer, please get in touch with us via email at {{<desuk_email>}}. Please also contact us if you would be interested in sponsorship opportunities.
 

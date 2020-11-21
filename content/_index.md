@@ -14,6 +14,10 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
+## Join us
+
+By joining us you'll receive our quarterly magazine and support the society's activities. [Click here]({{<relref join>}}) for more details.
+
 ## DESUK Live Broadcast: Uptown Lockdown
 
 We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time. We will be discussing matters Ellington and Strayhorn, playing tracks as well as a bit of live versions of their music. You can catch up at any time later.
