@@ -26,7 +26,7 @@ Please select from one of the three membership options:
 
 * Overseas Digital Membership: For overseas residents who are happy to receive *Blue Light* in electronic (PDF) form instead of via post.
 
-We accept secure payment via PayPal or from all major cards. Click "Pay with PayPal" if you have a PayPal account, otherwise click "Debit or Credit Card" to pay with a card.
+We accept secure payment either via PayPal or all major cards. Select your membership type below and click *Buy Now*.
 
 {{<paypal>}}
 
