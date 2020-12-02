@@ -9,7 +9,7 @@ menu:
 ---
 # Why Join?
 
-By joining you will a copy of our acclaimed magazine [Blue Light]({{<relref blue_light>}}) four times a year. You will be able to attend our events and our AGM, and you will be supporting the society's activities:
+By joining you will be sent a copy of our acclaimed magazine [Blue Light]({{<relref blue_light>}}) four times a year. You will be able to attend our events and our AGM, and you will be supporting the society's activities:
 
 * Research for *Blue Light*
 * Our broadcasts of *Uptown Lockdown*
