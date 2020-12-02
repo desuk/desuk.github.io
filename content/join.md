@@ -4,64 +4,39 @@ sidebar: true
 toc: false
 menu:
   main:
-    weight: 6
+    weight: 1
 
 ---
-# Subscription fees
+# Why Join?
 
-## UK
+By joining you will be sent a copy of our acclaimed magazine [Blue Light]({{<relref blue_light>}}) four times a year. You will be able to attend our events and our AGM, and you will be supporting the society's activities:
 
-The annual subscription in the UK is £25 Sterling and membership will expire at the end of the calendar year in which you join. When joining you will receive the current edition of Blue Light along with any already published that year, followed by all subsequent issues for as long as you remain a member.
+* Research for *Blue Light*
+* Our broadcasts of *Uptown Lockdown*
+* Supporting projects related to Ellingtonia, such as conferences and public concerts
+* Public meetings and listening sessions
 
-{{<paypal alt="Join online now." item_name="DESUK Membership for this year - UK" amount="25.00">}}
-Join or renew online now
-{{</paypal>}}
+# Join up or Renew your Membership
 
- 
+Please select from one of the three membership options:
 
-## Non-UK (Regular)
+* UK Membership: An annual membership costs £25 for UK residents and includes all four copies of *Blue Light* published that year (even if you join late in the year).
 
-The annual subscription outside the UK is £35 Sterling. Other conditions as per UK membership.
+* Overseas Membership: Exactly the same, but a slightly higher cost to cover international shipping.
 
-{{<paypal alt="Join online now." item_name="DESUK Membership for this year - outside UK" amount="35.00">}}
-Join or renew online now
-{{</paypal>}}
+* Overseas Digital Membership: For overseas residents who are happy to receive *Blue Light* in electronic (PDF) form instead of via post.
 
- 
+We accept secure payment either via PayPal or all major cards. Select your membership type below and click *Buy Now*.
 
-## Non-UK (Electronic)
+{{<paypal>}}
 
-Alternatively, those outside the UK who are happy to receive Blue Light electronically may pay the normal UK rate of £25 Sterling per year.
-
-{{<paypal alt="Join online now." item_name="DESUK Membership for this year - outside UK - electronic" amount="25.00">}}
-Join or renew online now
-{{</paypal>}}
-
- 
+Alternatively you can pay by bank transfer or standing order. Send us an email at {{<desuk_email>}} and we will send you the details and activate your subscription.
 
 # Donations and Sponsorship
 
-Support the work of DESUK
+If you'd like to further support DESUK's work, you can make a donation via the button below (either using PayPal or a credit or debit card):
 
-There are various ways in which you can support DESUK, in addition to being a Member.
+{{<paypal_donate>}}
 
-We have opportunities available for sponsorship of DESUK's events, our newsletter Blue Light, a chart in our Music Library, or perhaps you would like to make a donation.
+To donate via bank transfer, please get in touch with us via email at {{<desuk_email>}}. Please also contact us if you would be interested in sponsorship opportunities.
 
-You may donate to the Society by credit or debit card, or through your PayPal account. Select your choice, and then click to review your selections.
-
-<form class=cent target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-You may donate to the Society by credit or debit card, or through your PayPal account.
-Select your choice, and then click
-<input type="hidden" name="cmd" value="_cart">
-<input type="hidden" name="business" value="desukpp@gmail.com">
-<input type="image" align="top" src="/view.png" border="0" name="submit" alt="View Basket and Checkout">
-<input type="hidden" name="display" value="1">
-to review your selections.
-</form>
-
-{{<paypal_donate amount="10.00">}}£10 donation to DESUK{{</paypal_donate>}}
-{{<paypal_donate amount="20.00">}}£20 donation to DESUK{{</paypal_donate>}}
-{{<paypal_donate amount="50.00">}}£50 donation to DESUK{{</paypal_donate>}}
-{{<paypal_donate amount="100.00">}}£100 donation to DESUK{{</paypal_donate>}}
-{{<paypal_donate amount="500.00">}}£500 donation to DESUK{{</paypal_donate>}}
-{{<paypal_donate amount="1000.00">}}£1000 donation to DESUK{{</paypal_donate>}}

@@ -46,7 +46,8 @@ The Society is managed by its Committee which meets four times a year. Its minut
 Blue Light
 
 DESUK circulates a quarterly newsletter, Blue Light, to members. A substantial publication, it contains articles, news, reviews of records and live performances by established authorities on Ellingtonia. It also welcomes contributions from members who are not professional writers or musicians. Copies of Blue Light are lodged with the National Sound Archive of the British Library, the British Institute of Jazz Studies and the National Jazz Archive. Past issues have already become collectors’ items. Copies can be made available to new members.
-Meetings
+
+# Meetings
 
 DESUK holds a national general meeting annually in London on a weekend afternoon on or near the anniversary of Duke’s birth, usually towards the end of April. The AGM is followed by live music, and this is truly one of the gigs of the year! Our "Jazz Parties" are held at such venues as Ronnie Scott’s or the 100 Club. At the 2003 event the live entertainment was provided by the Leeds College of Music's Duke Ellington Repertory Orchestra under the direction of Tony Faulkner and at the 2004 meeting we were entertained by the Michael Garrick New Quartet.
 
