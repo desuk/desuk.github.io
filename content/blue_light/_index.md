@@ -16,9 +16,12 @@ sidebar: true
 Blue Light is the peer-reviewed quarterly journal of the Duke Ellington Society
 UK. Established in 1994, Blue Light continues to connect, entertain and inform
 by presenting research, news, reviews and recollections. Blue Light is
-acclaimed for publishing articles by the world’s most knowledgeable Ellington
+acclaimed for publishing articles by the world's most knowledgeable Ellington
 scholars and for giving space for voices with opposing viewpoints and
 backgrounds.
+
+A sample article is available here [here](/Blue Light 27-3 Sample Article.pdf)
+(PDF, 7.3MB).
 
 Blue Light is a premier benefit of membership to the Duke Ellington Society UK
 and members ([join here]({{<relref join>}})) can choose whether to receive
@@ -193,7 +196,7 @@ copy as early as possible.
 * Volume 25 / 1 Creole Rhapsody (Roger Boyes); Irving Mills Publicity Materials from 1930s; 25th International Conference (Birmingham) keynote speakers etc; Ronnie Scott’s Jazz Orchestra and the Scottish National Jazz Orchestra review (Quentin Bryar); Clarinetta Ellingtonia (Frank Griffith); The Eloquent Firing of Charles Mingus (Krin Gabbard).
 * Volume 25 / 2 Conservatory Without Walls: Ellingtonia in Academia (Ian Bradley); The Duke & I (Arthur W. Galston); Jazz Goes to Collage (sic): Duke Ellington, Percy Grainger and the Status of Jazz in the Academy (Ethan Hine); The Sacred and the Profound (Ian Bradley); Ellingtonia Moves Forward (Frank Griffith); 25th Duke Ellington Study Group Conference Schedule (Supplement).
 * Volume 25 / 3 Bournevilles Ville is the place, man… (Frank Griffith); Ellington’s “Secret Sessions” in Toronto, June 1972 (Jack Chambers); “A Beautiful Human Being”: Celebrating the Centenary of James Harvey Blanton Jr. (Matthias Heyman).
-* Volume 25 / 4 Ian Bradley signs off as Editor; Meet the Duke (Jack Sher); Duke Ellington, Billy Strayhorn and the Adventures of Peer Gynt in America (Anna Celenza); Sir John and the Duke (Frank Griffith). 
+* Volume 25 / 4 Ian Bradley signs off as Editor; Meet the Duke (Jack Sher); Duke Ellington, Billy Strayhorn and the Adventures of Peer Gynt in America (Anna Celenza); Sir John and the Duke (Frank Griffith).
 
 ## 2019
 * Volume 26 / 1 Duke Ellington Headed for Newport (Roger Boyes); Monsignor John Sanders (Roger Boyes); Billy Strayhorn: Composer of the Week - BBC Radio 3 (Quentin Bryer); The Protean Imagination of Duke Ellington: The Early Years (AJ Bishop); The Coventry Cathedral Concert (Cormac Loane).

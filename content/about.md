@@ -30,7 +30,7 @@ In the 1960s he composed three Sacred Concerts, performing them in many churches
 
 He continued to appear in films, and his film music includes Anatomy of a Murder (1958). He had less success in the theatre, though the musical Jump For Joy (1941) did well and has been revived. His ballet music is better known. Night Creature (1955), his and Billy’s take on Tchaikovsky’s Nutcracker (1960), and The River (1970) have been in the repertory of the Alvin Ailey Dance Theatre, the Birmingham Royal Ballet, the English National Ballet, and other companies.
 
-Duke Ellington died in 1974, but interest in his music is as high as ever. It is played and studied around the world. Since the early 1980s many conferences, five of them in Britain, have celebrated his achievements. The catalogue of his compositions and recordings is huge. 
+Duke Ellington died in 1974, but interest in his music is as high as ever. It is played and studied around the world. Since the early 1980s many conferences, five of them in Britain, have celebrated his achievements. The catalogue of his compositions and recordings is huge.
 
 
 # About DESUK
@@ -41,24 +41,21 @@ Members include many leading figures in the UK jazz scene. Vic Bellerby, Peter B
 
 The Society is truly national, with members throughout the UK. Members come from all walks of life, but are united in their love of Ellingtonia. DESUK also welcomes overseas members. Such internationally renowned authorities as Sjef Hoefsmit, Arne Hoxbro Larsen, Steven Lasker, Bjarne Busk, Francois Xavier-Moule, Ken Steiner, Jack Towers, Jerry Valburn and William E. Timner are or were among our members.
 
-<!-- FIXME: Link Blue Light -->
-The Society is managed by its Committee which meets four times a year. Its minutes are published in Blue Light. Annual audited accounts are also published in the Newsletter.
-Blue Light
+The Society is managed by its Committee which meets four times a year.
 
-DESUK circulates a quarterly newsletter, Blue Light, to members. A substantial publication, it contains articles, news, reviews of records and live performances by established authorities on Ellingtonia. It also welcomes contributions from members who are not professional writers or musicians. Copies of Blue Light are lodged with the National Sound Archive of the British Library, the British Institute of Jazz Studies and the National Jazz Archive. Past issues have already become collectors’ items. Copies can be made available to new members.
+DESUK circulates a quarterly house magazine to its members - see the [Blue Light]({{<relref blue_light>}}) page for more details.
 
 # Meetings
 
-DESUK holds a national general meeting annually in London on a weekend afternoon on or near the anniversary of Duke’s birth, usually towards the end of April. The AGM is followed by live music, and this is truly one of the gigs of the year! Our "Jazz Parties" are held at such venues as Ronnie Scott’s or the 100 Club. At the 2003 event the live entertainment was provided by the Leeds College of Music's Duke Ellington Repertory Orchestra under the direction of Tony Faulkner and at the 2004 meeting we were entertained by the Michael Garrick New Quartet.
 
-In 2005, Trinity College of Music's Jazz Ensemble led by Issie Barratt played a programme including a set of Ellington's Sacred Music with choir, filling Ronnie Scott's for a memorable occasion! 2006 and 2007 saw us descend to the atmospheric basement of Guildhall School of Music's students' union in the City of London, where the Guildhall Jazz Band directed by Martin Hathaway played a terrific group of pieces assembled from original manuscripts by Michael Kilpatrick.
+In ordinary times we meet regularly in London to listen and socialise,withand
+new arrivals always welcome. During the Covid-19 pandemic we've had to
+suspend these meetings, but the society's social aspect continues under the
+auspices of {{<relref uptown_lockdown>}} Uptown Lockdown.
 
-<!-- FIXME: Used to have a link here but Ellington 2008 is down -->
-In 2008 our AGM was held on Holiday Monday 26th May ahead of Ellington 2008's Festival Session at which Ellington alumni and DESUK Honorary Members Buster Cooper, John Lamb and Art Baron played.
-
-We hold regular record recitals in London, where you can be sure of a friendly welcome and of hearing rare - sometimes unique - recordings in high quality. See the events page for future meetings.
-
-Other meetings are held not only in London. As a national society DESUK has a programme of talks and recitals in regional towns or cities. These are often held under the auspices of local jazz societies.
+DESUK holds a national general meeting annually in London on a weekend
+afternoon on or near the anniversary of Duke’s birth, usually towards the end
+of April.
 
 # Honorary and eminent members
 

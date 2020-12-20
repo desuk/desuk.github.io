@@ -8,15 +8,32 @@ menu:
 ---
 # Welcome to DESUK
 
-The Duke Ellington Society UK's purpose is to further the study, appreciation and dissemination of the music of Edward Kennedy 'Duke' Ellington.
+The Duke Ellington Society UK's purpose is to further the study, appreciation
+and dissemination of the music of Edward Kennedy 'Duke' Ellington. It is
+based in the United Kingdom, but membership is open to everyone.
 
-We meet regularly in London to listen and socialise, and new arrivals are always welcome.
+In ordinary times we meet regularly in London to listen and socialise,
+new arrivals always welcome. During the Covid-19 pandemic we've had to
+suspend these meetings, but the society's social aspect continues under the
+auspices of Uptown Lockdown (see below).
 
-Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
+## Our Magazine: Blue Light
+
+Our house publication [Blue Light]({{<relref blue_light>}}) is released
+to members quarterly. A substantial publication, its wide-ranging content
+contains articles, news, reviews of records and live performances. Our
+contributors include jazz authors, journalists, critics and musicians as well
+as other Ellington enthusiasts.
+
+You can read a sample article here: [here](/Blue Light 27-3 Sample
+Article.pdf) (PDF, 7.3MB).
 
 ## Join us
 
-By joining us you'll receive our quarterly magazine and support the society's activities. [Click here]({{<relref join>}}) for more details.
+By joining us you'll receive our quarterly magazine and support the society's
+activities. **New and returning paid members for 2021 will receive a free CD
+with their subscription** (this is not available to overseas digital members).
+[Click here]({{<relref join>}}) for more details.
 
 ## DESUK Live Broadcast: Uptown Lockdown
 

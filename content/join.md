@@ -16,6 +16,8 @@ By joining you will be sent a copy of our acclaimed magazine [Blue Light]({{<rel
 * Supporting projects related to Ellingtonia, such as conferences and public concerts
 * Public meetings and listening sessions
 
+A free CD will be provided for new and continuing paid members in 2021 (excluding overseas digital members).
+
 # Join up or Renew your Membership
 
 Please select from one of the three membership options:
@@ -24,7 +26,7 @@ Please select from one of the three membership options:
 
 * Overseas Membership: Exactly the same, but a slightly higher cost to cover international shipping.
 
-* Overseas Digital Membership: For overseas residents who are happy to receive *Blue Light* in electronic (PDF) form instead of via post.
+* Overseas Digital Membership: For overseas residents who are happy to receive *Blue Light* in electronic (PDF) form instead of via post. Free CDs and other physical media are not available in this membership category.
 
 We accept secure payment either via PayPal or all major cards. Select your membership type below and click *Buy Now*.
 
