@@ -25,8 +25,8 @@ contains articles, news, reviews of records and live performances. Our
 contributors include jazz authors, journalists, critics and musicians as well
 as other Ellington enthusiasts.
 
-You can read a sample article here: [here](/Blue Light 27-3 Sample
-Article.pdf) (PDF, 7.3MB).
+You can read a sample article here:
+[here]({{<static "/Blue Light 27-3 Sample Article.pdf">}}) (PDF, 7.3MB).
 
 ## Join us
 

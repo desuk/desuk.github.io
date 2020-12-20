@@ -20,8 +20,8 @@ acclaimed for publishing articles by the world's most knowledgeable Ellington
 scholars and for giving space for voices with opposing viewpoints and
 backgrounds.
 
-A sample article is available here [here](/Blue Light 27-3 Sample Article.pdf)
-(PDF, 7.3MB).
+You can read a sample article here:
+[here]({{<static "/Blue Light 27-3 Sample Article.pdf">}}) (PDF, 7.3MB).
 
 Blue Light is a premier benefit of membership to the Duke Ellington Society UK
 and members ([join here]({{<relref join>}})) can choose whether to receive
