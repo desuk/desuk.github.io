@@ -37,27 +37,29 @@ with their subscription** (this is not available to overseas digital members).
 
 ## DESUK Live Broadcast: Uptown Lockdown
 
-We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time. We will be discussing matters Ellington and Strayhorn, playing tracks as well as a bit of live versions of their music. You can catch up at any time later.
+We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time.
+We will be discussing matters Ellington and Strayhorn, playing tracks as well
+as a bit of live versions of their music. You can catch up at any time later.
 
-More details on how to view and participate are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
+More details on how to view and participate are on the [Uptown
+Lockdown]({{<relref uptown_lockdown>}}) page.
 
 ## Chat to us
 
 We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
-## 2020 AGM
+## Forthcoming AGM
 
-The DESUK Annual General Meeting had been scheduled for Saturday, 2 May 2020. In view of the current health uncertainty  this meeting will not take place, nor can we give any indication of an alternative time.
-
-As selection of a new Committee would normally have taken place at the AGM, all current committee members have indicated their willingness to continue in office until such time as normal business can be resumed, In this way we anticipate that DESUK features such as Blue Light can appear in the normal manner.
-
-Please refer to the DESUK website for current information.
-
---- _Mike Coates, DESUK Chairman_
+It was not possible to hold an AGM in 2020 due to the Covid-19 pandemic. We
+are hoping to hold one in the second half of 2021 and will keep our members
+informed via Blue Light and this website. For the time being, the committee
+from the 2019 AGM remains in place.
 
 ## Non-society events
 
-Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
+Got a gig coming up with an Ellington element? <a
+href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can
+publicise via our website.
 
 ## Recent Tweets
 
