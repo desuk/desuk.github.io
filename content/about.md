@@ -47,7 +47,7 @@ DESUK circulates a quarterly house magazine to its members - see the [Blue Light
 
 # Meetings
 
-In ordinary times we meet regularly in London to listen and socialise,withand
+In ordinary times we meet regularly in London to listen and socialise, and
 new arrivals always welcome. During the Covid-19 pandemic we've had to
 suspend these meetings, but the society's social aspect continues under the
 auspices of [Uptown Lockdown]({{<relref uptown_lockdown>}}).

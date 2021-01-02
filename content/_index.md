@@ -12,7 +12,7 @@ The Duke Ellington Society UK's purpose is to further the study, appreciation
 and dissemination of the music of Edward Kennedy 'Duke' Ellington. It is
 based in the United Kingdom, but membership is open to everyone.
 
-In ordinary times we meet regularly in London to listen and socialise,
+In ordinary times we meet regularly in London to listen and socialise, and
 new arrivals always welcome. During the Covid-19 pandemic we've had to
 suspend these meetings, but the society's social aspect continues under the
 auspices of Uptown Lockdown (see below).
@@ -32,7 +32,7 @@ You can read a sample article here:
 
 By joining us you'll receive our quarterly magazine and support the society's
 activities. **New and returning paid members for 2021 will receive a free CD
-with their subscription** (this is not available to overseas digital members).
+with their subscription**.
 [Click here]({{<relref join>}}) for more details.
 
 ## DESUK Live Broadcast: Uptown Lockdown
