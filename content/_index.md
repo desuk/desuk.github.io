@@ -46,9 +46,15 @@ as a bit of live versions of their music. You can catch up at any time later.
 More details on how to view and participate are on the [Uptown
 Lockdown]({{<relref uptown_lockdown>}}) page.
 
-## Chat to us
+## Get in touch
 
-We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
+You can get in touch with DESUK by emailing {{<desuk_email>}}. We're also
+chatting online using Discord - join us at https://discord.gg/efQNUMa.
+
+You can keep up to date with DESUK news via this website, our [mailing
+list]({{<relref mailing_list>}}), or on
+[Facebook](https://facebook.com/dukesocuk) and
+[Twitter](https://twitter.com/dukesocuk).
 
 ## Forthcoming AGM
 
