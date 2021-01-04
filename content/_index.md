@@ -26,7 +26,9 @@ contributors include jazz authors, journalists, critics and musicians as well
 as other Ellington enthusiasts.
 
 You can read a sample article here:
-[here]({{<static "/Blue Light 27-3 Sample Article.pdf">}}) (PDF, 7.3MB).
+[*"Jazz, Revue and a Thriller" The Response of the Birmingham Press to Duke
+Ellington’s 1933 Tour*]({{<static "/Blue Light 27-3 Sample Article.pdf">}})
+, by Pedro Cravinho, Birmingham City University (PDF, 7.3MB).
 
 ## Join us
 
