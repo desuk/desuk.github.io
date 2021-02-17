@@ -17,6 +17,30 @@ new arrivals always welcome. During the Covid-19 pandemic we've had to
 suspend these meetings, but the society's social aspect continues under the
 auspices of Uptown Lockdown (see below).
 
+## AGM Update: Planned October 2021 Meeting
+
+You will recall that because of the coming of Covid-19 and the first lockdown
+we had to postpone last year’s Annual General Meeting. In the end, with the
+worsening situation at the end of 2020 and the imposition of the new
+lockdown, we had to abandon the idea of a 2020 AGM altogether.
+
+We have now agreed provisionally to hold an AGM on Saturday 16 October 2021,
+at 1pm. The location is the *Model Railway Club, Keen House, 4 Calshot Street,
+London N1 9DA*.
+
+Calshot Street is situated just off Pentonville Road (left side), under 10
+minutes' walk from Kings Cross and St Pancras stations. There are bus stops
+nearby. See [Google Maps](https://goo.gl/maps/Dw59Ksv1chEaY5Nm6).
+
+In the continuing uncertainty regarding the pandemic this has to be a
+provisional arrangement, but the date and venue are booked.
+
+You will receive updates and further details during the year in successive
+issues of *Blue Light*, and these will also be posted on the DESUK Website.
+
+So that we can better update you, please make sure we have an up-to-date email
+address for you. You can get in touch with us at {{<desuk_email>}}.
+
 ## Our Magazine: Blue Light
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released
@@ -55,13 +79,6 @@ You can keep up to date with DESUK news via this website, our [mailing
 list]({{<relref mailing_list>}}), or on
 [Facebook](https://facebook.com/dukesocuk) and
 [Twitter](https://twitter.com/dukesocuk).
-
-## Forthcoming AGM
-
-It was not possible to hold an AGM in 2020 due to the Covid-19 pandemic. We
-are hoping to hold one in the second half of 2021 and will keep our members
-informed via Blue Light and this website. For the time being, the committee
-from the 2019 AGM remains in place.
 
 ## Non-society events
 
