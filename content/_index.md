@@ -48,6 +48,10 @@ Saturday 20 March, 2.30pm (London time)
 > 
 > No ticket required, there will be an Honesty Box to help support our musicians. 
 
-More info at youtube.com/lenphillipsbigband1 and facebook.com/lenphillipsbigband.
+More info at https://youtube.com/lenphillipsbigband1 and https://facebook.com/lenphillipsbigband.
+
+## Recent Tweets
+
+{{<tweets tweet-limit="2">}}
 
 # Recent posts
