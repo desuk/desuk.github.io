@@ -16,8 +16,6 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## DESUK Live Broadcast: Uptown Lockdown
 
-**Note the broadcast on Wednesday the 18th of November will be** [**via Facebook**](https://www.facebook.com/dukesocuk) **rather than the usual Periscope.**
-
 We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time. We will be discussing matters Ellington and Strayhorn, playing tracks as well as a bit of live versions of their music. You can catch up at any time later.
 
 More details on how to view and participate are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
@@ -26,29 +24,20 @@ More details on how to view and participate are on the [Uptown Lockdown]({{<relr
 
 We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
-## 2020 AGM
+## 2021 AGM
 
-The DESUK Annual General Meeting had been scheduled for Saturday, 2 May 2020. In view of the current health uncertainty  this meeting will not take place, nor can we give any indication of an alternative time.
+Unfortunately we were unable to hold an AGM in 2020 due to the Covid-19
+pandemic. The DESUK committee is keeping the situation under review, and will
+aim to organise a physical AGM in the second half of 2021 if it is safe and
+practical for our members to attend.
 
-As selection of a new Committee would normally have taken place at the AGM, all current committee members have indicated their willingness to continue in office until such time as normal business can be resumed, In this way we anticipate that DESUK features such as Blue Light can appear in the normal manner.
-
-Please refer to the DESUK website for current information.
-
-\--- _Mike Coates, DESUK Chairman_
+A provisional date for the AGM is Saturday the 16th of October 2021 in central
+London. We will inform our members closer to the time, via Blue Light and this
+website, if this can go ahead.
 
 ## Non-society events
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
-
-### Len Phillips Big Band Big Band streamed live from Abbey Road
-
-Saturday 20 March, 2.30pm (London time)
-
-> The Len Phillips Big Band be featuring trombonist Chris Traves and clarinettist Jon Shenoy on Mood Indigo live from Abbey Road Studio 2. The full 16 piece band plus singer, Matt Ford in a complete concert.
-> 
-> No ticket required, there will be an Honesty Box to help support our musicians. 
-
-More info at https://youtube.com/lenphillipsbigband1 and https://facebook.com/lenphillipsbigband.
 
 ## Recent Tweets
 
