@@ -55,7 +55,7 @@ publishDir = "build"
 
   [[menu.side]]
     name = "Ellington Live"
-    url = "https://villesville.blogspot.com"
+    url = "https://ellingtonlive.blogspot.com"
     weight = 4
 
 [Params.sidebar]
