@@ -9,7 +9,7 @@ menu:
 
 Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. Currently broadcasting at 5pm every Wednesday, London time.
 
-Link to view the broadcasts at this address: https://www.pscp.tv/AP64740207/. You can join us live or watch them afterwards at the same address.
+Please note the new link to view the broadcasts: https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/live.
 
 Past episodes are available [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
 
