@@ -16,11 +16,9 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## DESUK Live Broadcast: Uptown Lockdown
 
-We're doing **live broadcasts** on Wednesday afternoons, 17:00 London time. We will be discussing matters Ellington and Strayhorn, playing tracks as well as a bit of live versions of their music. You can catch up at any time later.
+Our live show is currently paused for the summer, but you can catch up with any episodes you missed [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
 
-The **recently updated address** to watch Uptown Lockdown is https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/live
-
-More details on how to view and participate, or to make a donation to support the show, are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
+For more details on how to view and participate, or to make a donation to support the show, are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
 
 ## Chat to us
 

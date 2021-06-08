@@ -7,6 +7,8 @@ menu:
 
 ---
 
+**Note: currently suspended for the summer**
+
 Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. Currently broadcasting at 5pm every Wednesday, London time.
 
 Please note the new link to view the broadcasts: https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/live.
