@@ -39,6 +39,15 @@ website, if this can go ahead.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
+## Frank Griffith
+
+<p>DESUK members will know Frank from his regular contributions to Blue Light, and as co-host of Uptown Lockdown. During the hiatus of the latter, you can get more Frank on his two radio shows:</p>
+
+<p>1.<a href="http://www.mykindamusic24.com/" > www.mykindamusic24.com</a> / “Grifftides- Jazz Under Arrest” / Thursdays at 9PM. Repeats at 6PM Sunday.</p>
+
+<p>2. Liverpool Community Radio / “The Jazz Cavern” / 106.7 FM <a href="http://www.l-c-r.co.uk/" >www.l-c-r.co.uk</a> / Airs on weekly Fridays-2PM, Saturdays- 4PM, Tuesdays- 4PM 24 hours a day on<a href="https://www.spreaker.com/episode/44754937" > https://www.spreaker.com/episode/</a></p>
+
+Got a link you'd like to share? Let us know at <a href="mailto:desuk@dukeellington.org.uk" target="_blank">desuk@dukeellington.org.uk</a>. Many thanks to everyone who contributed to the above.<br />
 ## Recent Tweets
 
 {{<tweets tweet-limit="2">}}
