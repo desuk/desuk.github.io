@@ -16,6 +16,9 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 ## DESUK Live Broadcast: Uptown Lockdown
 
+**Update: Louis Armstrong Special, Wednesday the 4th of August at 7pm**. Watch
+here or catch-up later: https://www.youtube.com/watch?v=NH-VzJJ6grs
+
 Our live show is currently paused for the summer, but you can catch up with any episodes you missed [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
 
 For more details on how to view and participate, or to make a donation to support the show, are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
@@ -26,26 +29,63 @@ We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
 ## 2021 AGM
 
-Unfortunately we were unable to hold an AGM in 2020 due to the Covid-19
-pandemic. The DESUK committee is keeping the situation under review, and will
-aim to organise a physical AGM in the second half of 2021 if it is safe and
-practical for our members to attend.
+We finally feel confident that our AGM can proceed at last, at the great new
+location of the Model Railway Club. This is a great opportunity for members
+and fans of Duke Ellington to get involved in the Society and its work,
+particularly if you’d like to help out with Blue Light.
 
-A provisional date for the AGM is Saturday the 16th of October 2021 in central
-London. We will inform our members closer to the time, via Blue Light and this
-website, if this can go ahead.
+The AGM will start at 1pm on Saturday the 16th of October, though we have the
+room booked from noon if you are a little early. A bar with snacks, hot
+drinks, soft drinks and alcohol will be in operation. Please note the room is
+up one flight of stairs and there is unfortunately no lift.
 
+After the formal proceedings we hope to have some entertainment lined up for
+you, more details on that to follow.
+
+The full address is: Model Railway Club, Keen House, 4 Calshot St, London N1
+9DA. Google Maps location [here](https://goo.gl/maps/Fg8qafdsvPTxgA5j8).
 ## Non-society events
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
 ## Frank Griffith
 
-<p>DESUK members will know Frank from his regular contributions to Blue Light, and as co-host of Uptown Lockdown. During the hiatus of the latter, you can get more Frank on his two radio shows:</p>
+DESUK members will know Frank from his regular contributions to Blue Light, and as co-host of Uptown Lockdown. Here's a list of some of his upcoming gigs:
 
-<p>1.<a href="http://www.mykindamusic24.com/" > www.mykindamusic24.com</a> / “Grifftides- Jazz Under Arrest” / Thursdays at 9PM. Repeats at 6PM Sunday.</p>
+Date: 31 August 2021<br/>
+Location: Wilmslow Conservative Club.15 Grove Avenue, Wilmslow, SK9 5EG<br/>
+Time: 8.30PM<br/>
+Featuring: The Frank Griffith Quartet<br/>
+More information: 01625 528336<br/>
+Admission: £8
 
-<p>2. Liverpool Community Radio / “The Jazz Cavern” / 106.7 FM <a href="http://www.l-c-r.co.uk/" >www.l-c-r.co.uk</a> / Airs on weekly Fridays-2PM, Saturdays- 4PM, Tuesdays- 4PM 24 hours a day on<a href="https://www.spreaker.com/episode/44754937" > https://www.spreaker.com/episode/</a></p>
+Date: 5 September 2021<br/>
+Location: The Railway Pub, 74 Wellington Road, Stockport, SK4 1HF<br/>
+Time: 9PM<br/>
+Featuring: Frank Griffith Quartet with Dave Lynane, Misha Gray and Eryl Roberts<br/>
+More information: 0161 477 3680<br/>
+Admission: £10
+
+Date: 25 September 2021<br/>
+Location: Ma Boyles. 7 Tower Gardens, The Strand,Liverpool, L3 1LG<br/>
+Time: 9PM<br/>
+Featuring: Frank Griffith Trio<br/>
+Admission: Free<br/>
+More information: www.parrjazz.co.uk
+
+Date: 16 October 2021 (i.e. the AGM!)<br/>
+Location: Model Railway Club, Keen House, 4 Calshot Street, London, N1 9DA<br/>
+Time: 3PM<br/>
+Featuring: Frank Griffith Trio with Dave Green, Colin Oxley<br/>
+Admission: Free<br/>
+More information: www.dukeellington.org.uk
+
+Date: 28 November 2021<br/>
+Location: Wigan Jazz, The Music Continuum, Whelley Ex-Servicemen's Club, Vauxhall Rd, Wigan, WN1 2BB<br/>
+Time:12.30PM<br/>
+Featuring: Frank Griffith Quintet with  Mike Hall, Andrezj Baraneck, Eryl Roberts and Ed Harrison<br/>
+Admission: £10<br/>
+More information: www.musiccontinuum.co.uk
 
 Got a link you'd like to share? Let us know at <a href="mailto:desuk@dukeellington.org.uk" target="_blank">desuk@dukeellington.org.uk</a>. Many thanks to everyone who contributed to the above.<br />
 ## Recent Tweets

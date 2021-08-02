@@ -7,6 +7,9 @@ menu:
 
 ---
 
+**Update: Louis Armstrong Special, Wednesday the 4th of August at 7pm**. Watch
+here or catch-up later: https://www.youtube.com/watch?v=NH-VzJJ6grs
+
 **Note: currently suspended for the summer**
 
 Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. Currently broadcasting at 5pm every Wednesday, London time.
