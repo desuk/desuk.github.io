@@ -14,6 +14,26 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
+## 2021 AGM
+
+A reminder that our AGM is taking place on the 16th of October, at the great
+new location of the Model Railway Club. This is a wonderful opportunity for
+members and fans of Duke Ellington to get involved in the Society and its work,
+particularly if you’d like to help out with Blue Light or with the running of
+the Society. The last AGM brought several new additions to the Committee and
+we're looking forward to new faces this time too.
+
+The AGM will start at 1pm, though we have the room booked from noon if you are
+a little early. A bar with snacks, hot drinks, soft drinks and alcohol will be
+in operation. Please note the room is up one flight of stairs and there is
+unfortunately no lift.
+
+After the formal proceedings there will be musical entertainment - we are proud
+to present The Frank Griffith Trio with Dave Green and Colin Oxley!
+
+The full address is: Model Railway Club, Keen House, 4 Calshot St, London N1
+9DA. Google Maps location [here](https://goo.gl/maps/Fg8qafdsvPTxgA5j8).
+
 ## DESUK Live Broadcast: Uptown Lockdown
 
 **Update: Louis Armstrong Special, Wednesday the 4th of August at 7pm**. Watch
@@ -27,23 +47,6 @@ For more details on how to view and participate, or to make a donation to suppor
 
 We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
-## 2021 AGM
-
-We finally feel confident that our AGM can proceed at last, at the great new
-location of the Model Railway Club. This is a great opportunity for members
-and fans of Duke Ellington to get involved in the Society and its work,
-particularly if you’d like to help out with Blue Light.
-
-The AGM will start at 1pm on Saturday the 16th of October, though we have the
-room booked from noon if you are a little early. A bar with snacks, hot
-drinks, soft drinks and alcohol will be in operation. Please note the room is
-up one flight of stairs and there is unfortunately no lift.
-
-After the formal proceedings we hope to have some entertainment lined up for
-you, more details on that to follow.
-
-The full address is: Model Railway Club, Keen House, 4 Calshot St, London N1
-9DA. Google Maps location [here](https://goo.gl/maps/Fg8qafdsvPTxgA5j8).
 ## Non-society events
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
