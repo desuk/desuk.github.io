@@ -5,6 +5,9 @@ tags:
   - "News"
 readmore: false
 ---
+Update: we have a new editor :)
+<!--more-->
+
 Patrick Olsen has stood down as a Committee Member and as Editor of Blue Light, a decision necessitated by changes in his professional life, including his recent move to Singapore. Blue Light has continued to thrive under his editorship, and it is important we express our gratitude to Patrick for all he has achieved on behalf of all members.
 
 Even more important is our pressing need to find a successor. The forthcoming issue, 28-2, will be Patrick’s last. After that the Committee will take charge in the interim, but this arrangement can only be for the short term, and we do need a member to have editorial oversight of the activities involved. Without Blue Light DESUK as we know it would not survive for long, so the need is urgent.
@@ -28,4 +31,3 @@ In the past the Editor has always been an officer or Committee member too, and t
 We are also looking for offers of help in any one or more of the areas listed above. The future of BL will be more secure if the activities are shared among several members, working as a small team under the Editor’s guidance. That would have the advantage that the burden would not fall too heavily on one individual’s shoulders.
 
 If you feel you would like to become an Editor, or if you can contribute in any way to one or more aspects of producing Blue Light, or if you want to talk further about it, please get in touch with us at {{<desuk_email>}}.
-<!--more-->
