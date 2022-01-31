@@ -7,9 +7,6 @@ menu:
 
 ---
 
-**Update: Christmas Special, Tuesday the 14th of December at 5pm London time**. Watch
-here or catch-up later: https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q
-
 **Note: regular programming is currently paused**
 
 Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. Currently broadcasting at 5pm every Wednesday, London time.
