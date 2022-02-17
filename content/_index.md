@@ -34,12 +34,10 @@ We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
 You can also catch DESUK’s very own Frank Griffith at any of the following gigs:
 
-* 5 February, 8.30PM. Frank Griffith Trio - Ma Boyles. Tower Gardens, The Strand, Liverpool. L3 1LG. Free.
-* 10 February, 8PM. Alsager Jazz Club. Alsager Golf Club, Audley Road, Alsager, ST7 2UR. £5.
 * 9 March, 8PM. Frank Griffith Nonet. Camp and Furnace. 67 Greenland Street, Liverpool. L1 OBY. Free.
 * 28 March, 8PM. Frank Griffith Quartet. Revolver. 2 Temple Court, L2 6PY. Free.
-* 17 April, 2PM. Frank Griffith Trio. Nantwich Jazz Festival. nantwichjazz.com. Free.
-* 25 June, 8PM. Frank Griffith Nonet with Louise Gibbs - Songs of Ellington and Strayhorn. Liverpool Philharmonic Hall. Hope Street, Liverpool, L1 9BB. www.liverpoolphil.com £12.
+* 17 April, 2PM. Frank Griffith Trio. Nantwich Jazz Festival. www.nantwichjazz.com. Free.
+* 25 June, 8PM. Frank Griffith Nonet with Louise Gibbs - Songs of Ellington and Strayhorn. Liverpool Philharmonic Hall. Hope Street, Liverpool, L1 9BB. [Book here](https://www.liverpoolphil.com/whats-on/contemporary-music/duke-and-billy-songs-and-classics-for-nonet/4219) £12.
 
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
