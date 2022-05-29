@@ -7,13 +7,7 @@ menu:
 
 ---
 
-**Note: regular programming is currently paused**
-
-Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. Currently broadcasting at 5pm every Wednesday, London time.
-
-Please note the new link to view the broadcasts: https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/live.
-
-Past episodes are available [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
+Uptown Lockdown is our regular live video and audio broadcast of Ellingtonia-related music and interviews. New episodes are currently being produced monthly and are available [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
 
 We also have a public _Discord_ chatroom which might be useful in the event of any difficulties, or if you just fancy some Ducal chat: https://discord.gg/efQNUMa
 
