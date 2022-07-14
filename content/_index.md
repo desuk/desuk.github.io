@@ -26,11 +26,12 @@ We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
 ## Non-society events
 
-You can also catch DESUK’s very own Frank Griffith at any of the following gigs:
-
-* 25 June, 8PM. Frank Griffith Nonet with Louise Gibbs - Songs of Ellington and Strayhorn. Liverpool Philharmonic Hall. Hope Street, Liverpool, L1 9BB. [Book here](https://www.liverpoolphil.com/whats-on/contemporary-music/duke-and-billy-songs-and-classics-for-nonet/4219) £12.
-
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
+
+Many of our members are musicians who perform Ellington material:
+* Frank Griffith: saxophonist, clarinettist, composer and educator. Find out more at www.frankgriffith.co.uk.
+* Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->
+
 ## Recent Tweets
 
 {{<tweets tweet-limit="2">}}
