@@ -32,10 +32,10 @@ their copy through the post or digitally as a PDF.
 ## Contributing
 
 We welcome contributions from DESUK members and non-members. If you would like
-to submit an editorial or an article for consideration, please email the Editor
-(olsen_patrick[AT]hotmail[DOT]com) with an informal proposal of what you would like to contribute. Please refer to
-the [Submission Guidelines]({{<relref blue_light_submission>}}) if writing
-an article.
+to submit an editorial or an article for consideration, please contact us at {{<
+desuk_email >}} with an informal proposal of what you would like to contribute.
+Please refer to the [Submission Guidelines]({{<relref blue_light_submission>}})
+if writing an article.
 
 Letters to the Editor, Event Listings, Reviews and Reminiscing submissions are
 typically included in the issue following the copy date. Articles containing
