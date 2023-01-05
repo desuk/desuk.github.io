@@ -50,11 +50,42 @@ We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
 ## Non-society events
 
+
+
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
 Many of our members are musicians who perform Ellington material:
 * Frank Griffith: saxophonist, clarinettist, composer and educator. Find out more at www.frankgriffith.co.uk.
 * Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->
+
+
+### Pigfoot Play Ellington
+
+Pigfoot ([Facebook](https://www.facebook.com/Pigfoot4), [Bandcamp](https://chrisbatchelor.bandcamp.com/releases)) presents an imaginative reworking of a range of Duke Ellington’s iconic compositions, from the early Cotton Club blues material to Swing hits and through to the exotica that was inspired by Ellington’s extensive travels.
+
+> Pigfoot was formed by Chris Batchelor in 2013 to play classic 1920’s New Orleans material, spontaneously re-invented through the band’s wild musicality and wry humour. Their inquisitive exploration of repertoire then led them further afield, through a series of gigs entitled Pigfoot Play… Here they extended in all directions, with sets dedicated to Opera, Motown, Elvis, Bacharach and the hits of 1972.
+>
+> The members of Pigfoot are all devotees of the Ellington sound - the muted
+> rasp of trumpeter Cootie Williams, the poised grace of Harry Carney’s
+> baritone, the dense crunch of Duke’s piano voicings and the buoyant bounce of
+> drummer Sonny Greer are all reflected in the engaging and individual
+> approaches of Chris Batchelor, James Allsopp, Liam Noble and Paul Clarvis. An
+> entertainingly riotous, swinging, delicate and atmospheric account of
+> Ellington’s legacy is promised.
+
+Lineup:
+* Chris Batchelor - trumpet, Eb cornet
+* James Allsopp - baritone sax, bass clarinet
+* Liam Noble - piano
+* Paul Clarvis - drums
+
+Upcoming dates:
+
+* February 2nd 2023: Crazy Coqs Soho, 20 Sherwood St, London W1B 5AP Admission. £20 Music 9.15pm www.brasseriezedel.com
+* April 21st 2023: Birmingham Jazz / 1000 Trades, 16 Frederick St, Jewellery Quarter, Birmingham, B1 3HE. Admission £16. Music 7.45pm. www.birminghamjazz.co.uk
+* July 7th 2023: Bracknell Jazz / South Hill Park, Ringmead,  Bracknell,  RG12 7PA. Admission £16.50 Music 7.30pm.
+
+
 
 ## Recent Tweets
 
