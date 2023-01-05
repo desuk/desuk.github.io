@@ -74,6 +74,7 @@ Pigfoot ([Facebook](https://www.facebook.com/Pigfoot4), [Bandcamp](https://chris
 > Ellington’s legacy is promised.
 
 Lineup:
+
 * Chris Batchelor - trumpet, Eb cornet
 * James Allsopp - baritone sax, bass clarinet
 * Liam Noble - piano
