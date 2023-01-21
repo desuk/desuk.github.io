@@ -14,6 +14,11 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
+# AGM 2023 - We need a Treasurer!
+
+
+We will be holding our Annual General Meeting on Saturday the 13th of May 2023, in London. Full details to follow. We urgently need a new Treasurer to keep the society running. If you feel you could help in this or another capacity, please get in touch or turn up on the day. You will be warmly welcomed!
+
 # Urgent: New Treasurer Required
 
 An important notice from our Chairman:
@@ -22,7 +27,7 @@ An important notice from our Chairman:
 obliged to advise that he will no longer be able to continue his duties in
 future.
 >
-> An insert in the last issue of blue light requesting volunteer(s) for the role
+> An insert in the last issue of Blue Light requesting volunteer(s) for the role
 produced no results.
 >
 > So again I am writing, to  all members, to request any suitably experienced
@@ -33,7 +38,7 @@ href="mailto:desuk@dukeellington.org.uk">contact us</a>.
 >
 > Once again i would emphasise the urgency and importance of this call for
 assistance. Quite frankly, and with great sadness, I need to suggest that if we
-are unable to appoint a suitable person, then in all probability desuk will be
+are unable to appoint a suitable person, then in all probability DESUK will be
 unable to operate in future.
 
 -- *Mike Coates, DESUK Chairman*
