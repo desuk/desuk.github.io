@@ -56,13 +56,15 @@ We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 ## Non-society events
 
 
-
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
 Many of our members are musicians who perform Ellington material:
 * Frank Griffith: saxophonist, clarinettist, composer and educator. Find out more at www.frankgriffith.co.uk.
 * Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->
 
+### Duke Ellington International Meeting
+
+*La Maison du Duke* is organising an international meeting in Paris, running 28-30 April 2023. We hope to see a lot of DESUK members and fans there too! More details are [here](https://www.maison-du-duke.com/meeting-2023/meeting-international/) (click "Presentation") for a glossy guide to the event).
 
 ### Pigfoot Play Ellington
 
@@ -87,7 +89,6 @@ Lineup:
 
 Upcoming dates:
 
-* February 2nd 2023: Crazy Coqs Soho, 20 Sherwood St, London W1B 5AP Admission. £20 Music 9.15pm www.brasseriezedel.com
 * April 21st 2023: Birmingham Jazz / 1000 Trades, 16 Frederick St, Jewellery Quarter, Birmingham, B1 3HE. Admission £16. Music 7.45pm. www.birminghamjazz.co.uk
 * July 7th 2023: Bracknell Jazz / South Hill Park, Ringmead,  Bracknell,  RG12 7PA. Admission £16.50 Music 7.30pm.
 
