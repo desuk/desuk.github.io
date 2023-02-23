@@ -16,7 +16,6 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 # AGM 2023 - We need a Treasurer!
 
-
 We will be holding our Annual General Meeting on Saturday the 13th of May 2023, in London. Full details to follow. We urgently need a new Treasurer to keep the society running. If you feel you could help in this or another capacity, please get in touch or turn up on the day. You will be warmly welcomed!
 
 # Urgent: New Treasurer Required
@@ -89,10 +88,12 @@ Lineup:
 
 Upcoming dates:
 
+* February 25th 2023: Vortex Jazz Club.  11 Gillett Square / London N16 8AZ.  Admission £15 Music 8.30 www.vortexjazz.co.uk
 * April 21st 2023: Birmingham Jazz / 1000 Trades, 16 Frederick St, Jewellery Quarter, Birmingham, B1 3HE. Admission £16. Music 7.45pm. www.birminghamjazz.co.uk
 * July 7th 2023: Bracknell Jazz / South Hill Park, Ringmead,  Bracknell,  RG12 7PA. Admission £16.50 Music 7.30pm.
-
-
+* July 30th 2023: Eastbourne Jazz & Blues Festival.  King Edward's Parade / Eastbourne BN21 4EH Admission £22: Music 11.00 - 19.00 https://www.seetickets.com/event/the-eastbourne-jazz-blues-festival/western-lawns/2514655
+* November 7th 2023: JazzHastings.  East Hastings Sea Angling Association / The Stade / Hastings East Sussex / TN34 3FJ http://jazzhastings.co.uk
+* November 14th 2023: Green Note Camden.  106 Parkway / Camden / London  / NW1 7AN Admission £15: Music 8.30 https://efglondonjazzfestival.org.uk
 
 ## Recent Tweets
 
