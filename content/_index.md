@@ -14,24 +14,13 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
-# AGM 2023 - Please Come Along!
+# AGM 2023 - Postponed!
 
-A reminder that our AGM is taking place on Saturday the 13th of May, at the
-Model Railway Club, London. This is a wonderful opportunity for members and fans
-of Duke Ellington to get involved in the Society and its work, particularly if
-you’d like to help out with Blue Light or with the running of the Society.
-
-We are very pleased to announce that we have a prospective new Treasurer lined
-up. We strongly encourage members and fans to come along and ideally join the
-Committee too.
-
-The AGM will start at 1pm, though we have the room booked from noon if you are
-a little early. A bar with snacks, hot drinks, soft drinks and alcohol will be
-in operation. Please note the room is up one flight of stairs and there is
-unfortunately no lift.
-
-The full address is: Model Railway Club, Keen House, 4 Calshot St, London N1
-9DA. Google Maps location [here](https://goo.gl/maps/Fg8qafdsvPTxgA5j8).
+Due to recently announced rail strikes, we will be postponing our AGM, which had
+been due to take place on Saturday the 13th of May, at the Model Railway Club in
+London. We’re very sorry for the disruption and look forward to booking a later
+date. Please come see us! You also don’t have to wait till the AGM if you want
+to get involved - drop us an email!
 
 ## DESUK TV: Uptown Lockdown
 
@@ -78,8 +67,6 @@ Lineup:
 
 Upcoming dates:
 
-* February 25th 2023: Vortex Jazz Club.  11 Gillett Square / London N16 8AZ.  Admission £15 Music 8.30 www.vortexjazz.co.uk
-* April 21st 2023: Birmingham Jazz / 1000 Trades, 16 Frederick St, Jewellery Quarter, Birmingham, B1 3HE. Admission £16. Music 7.45pm. www.birminghamjazz.co.uk
 * July 7th 2023: Bracknell Jazz / South Hill Park, Ringmead,  Bracknell,  RG12 7PA. Admission £16.50 Music 7.30pm.
 * July 30th 2023: Eastbourne Jazz & Blues Festival.  King Edward's Parade / Eastbourne BN21 4EH Admission £22: Music 11.00 - 19.00 https://www.seetickets.com/event/the-eastbourne-jazz-blues-festival/western-lawns/2514655
 * November 7th 2023: JazzHastings.  East Hastings Sea Angling Association / The Stade / Hastings East Sussex / TN34 3FJ http://jazzhastings.co.uk
