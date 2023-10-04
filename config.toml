@@ -7,6 +7,10 @@ theme = "mainroad"
 
 publishDir = "build"
 
+[markup.goldmark.renderer]
+  # Needed for <br/>
+  unsafe = true
+
 # Privacy
 [youtube]
   privacyEnhanced = true

@@ -40,9 +40,62 @@ Many of our members are musicians who perform Ellington material:
 * Frank Griffith: saxophonist, clarinettist, composer and educator. Find out more at www.frankgriffith.co.uk.
 * Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->
 
-### Duke Ellington International Meeting
 
-*La Maison du Duke* is organising an international meeting in Paris, running 28-30 April 2023. We hope to see a lot of DESUK members and fans there too! More details are [here](https://www.maison-du-duke.com/meeting-2023/meeting-international/) (click "Presentation") for a glossy guide to the event).
+### Frank Griffith Upcoming Gigs
+
+Date/Time:7 October, 7:30PM<br/>
+Venue: Bridport Arts Centre. 9 South Street, Bridport, Dorset, DT6 3NR.<br/>
+Featuring: "Benny Vibes Again"-Tribute to the music of Benny Goodman and Lionel Hampton. Frank Griffith- clarinet, and Roger Beaujolais- Vibes.<br/>
+Info: www.bridport-arts.com. 01308 424901<br/>
+Admission: £20<br/>
+
+Date/Time: 10 October, 9.30PM<br/>
+Featuring: Frank Griffith Nonet with Abbie Fairchild<br/>
+Location: Frederiks Bar. 32 Hope Street, Liverpool, L1 9BX. www.frederikshopestreet.com<br/>
+Admission: Free<br/>
+
+Date/Time: 21 October, 8PM<br/>
+Featuring: Frank Griffith Trio with Mike Hughes- vibraphone<br/>
+Venue: Zeffirelli's. Compston Road, Ambleside, Cumbria, LA22 9AD<br/>
+www.zeffirellis.com. 01539 433845<br/>
+Admission: £4<br/>
+
+Date/Time: 28 October, 8.30PM<br/>
+Venue-Ma Boyles, 7 Tower Gardens, Water Street, Liverpool, L3 1LG.<br/>
+Featuring- Frank Griffith Trio, w/John McCormick- bass, John Wheatcroft- guitar<br/>
+Info: 0151 236 0070<br/>
+Admission- Free<br/>
+
+Date/Time: 29 October , 3-5PM<br/>
+Venue: Hightown Pub and Kitchen, Alt Road,Hightown, Liverpool, L38 0BA.<br/>
+Featuring: Frank Griffith Trio<br/>
+Info: 0151 929 2492<br/>
+Admission: Free<br/>
+
+
+
+
+Date/Time:5 November, 7PM<br/>
+Venue: The Richmond Tavern, 23A Church Road, Liverpool, L15 9EA<br/>
+Featuring: Frank w/Penny Lane Jazz<br/>
+Info: 0151 733 9025<br/>
+Admission: Free<br/>
+
+
+Date/Time: 8  November 7PM<br/>
+Featuring: Frank Griffith Quartet with Abbie Fairchild- vocal<br/>
+Venue: Christ The King Social Club. Score Lane, Liverpool, L16 6AW<br/>
+Info: lesleyscholes@blueyonder.co.uk 07762 360591<br/>
+Admission:  £12.50<br/>
+
+
+
+Date/Time: 10 December , 3-5PM<br/>
+Venue:Hightown Pub and Kitchen, Alt Road,Hightown, Liverpool, L38 0BA.<br/>
+Featuring: Frank Griffith Trio<br/>
+Info: 0151 929 2492<br/>
+Admission: Free<br/>
+
 
 ### Pigfoot Play Ellington
 
@@ -67,8 +120,6 @@ Lineup:
 
 Upcoming dates:
 
-* July 7th 2023: Bracknell Jazz / South Hill Park, Ringmead,  Bracknell,  RG12 7PA. Admission £16.50 Music 7.30pm.
-* July 30th 2023: Eastbourne Jazz & Blues Festival.  King Edward's Parade / Eastbourne BN21 4EH Admission £22: Music 11.00 - 19.00 https://www.seetickets.com/event/the-eastbourne-jazz-blues-festival/western-lawns/2514655
 * November 7th 2023: JazzHastings.  East Hastings Sea Angling Association / The Stade / Hastings East Sussex / TN34 3FJ http://jazzhastings.co.uk
 * November 14th 2023: Green Note Camden.  106 Parkway / Camden / London  / NW1 7AN Admission £15: Music 8.30 https://efglondonjazzfestival.org.uk
 
