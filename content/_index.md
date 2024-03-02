@@ -40,6 +40,13 @@ Many of our members are musicians who perform Ellington material:
 * Frank Griffith: saxophonist, clarinettist, composer and educator. Find out more at www.frankgriffith.co.uk.
 * Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->
 
+### New: North West Duke Ellington Orchestra
+The first gig by a new big band playing only Ellington/Strayhorn.
+25th March at 8pm. /
+Christ The King Parish Centre /
+Score Lane, Liverpool L16 6AW  /
+Free Entry.
+
 
 ### Frank Griffith Upcoming Gigs
 
