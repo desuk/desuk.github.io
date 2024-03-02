@@ -14,11 +14,13 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
-# AGM 2024 - At Last!
+# AGM 2024 - New Date!
 
-We’re planning on having an Annual General Meeting on Saturday the 18th of May,
-at the Model Railway Club in central London. More details closer to the time.
-Please come along and get involved if you can - it's fun, honest!
+We're planning on having an Annual General Meeting on Saturday the 1st of June,
+at the Model Railway Club in central London. **Please note the new date**. More
+details closer to the time.  Please come along and get involved if you can -
+it's fun, honest! If you want to be involved, or join the committee, but can't
+attend, please get in touch with us anyway. We'll sort something out.
 
 ## DESUK TV: Uptown Lockdown
 
