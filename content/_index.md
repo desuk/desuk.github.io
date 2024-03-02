@@ -41,6 +41,114 @@ Many of our members are musicians who perform Ellington material:
 * Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->
 
 
+### Frank Griffith Upcoming Gigs
+
+Please check www.frankgriffith.co.uk in case these details change.
+
+**Date/Time:** 3 March, 3-5PM
+**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
+**Featuring:** Frank Griffith Trio
+**Info:** 0151 929 2492
+**Admission:** Free
+
+---
+
+**Date/Time:** 5 March, 9.30PM
+**Venue:** Frederiks Bar, 32 Hope Street, Liverpool, L1 9BX
+**Featuring:** Frank Griffith Nonet
+**Info:** [www.frederikshopestreet.com](http://www.frederikshopestreet.com)
+**Admission:** Free
+
+---
+
+**Date/Time:** 1 April, 4PM
+**Venue:** Nantwich Festival. Crown Hotel, Nantwich High Street, CW5 SAS
+**Featuring:** Frank Griffith Trio with Richard Wetherall piano, Johnny Mac, bass
+**Info:** [www.nantwichjazz.com](http://www.nantwichjazz.com)
+**Admission:** Free
+
+---
+
+**Date/Time:** 12 April, 7.30PM
+**Venue:** The Gallery. 455 Smithdown Road, L15 3JL
+**Featuring:** Frank Griffith and Poetrio. Mike Hughes, drums, Ben Parkinson, Keys. Jazz amongst the Poets
+**Info:** [www.smithdownsocial.co.uk](http://www.smithdownsocial.co.uk)
+**Admission:** Free
+
+---
+
+**Date/Time:** 26 April, 7.30PM
+**Venue:** The Gallery. 455 Smithdown Road, L15 3JL
+**Featuring:** Frank Griffith and Poetrio. Mike Hughes, drums, Ben Parkinson, Keys. Jazz amongst the Poets
+**Info:** [www.smithdownsocial.co.uk](http://www.smithdownsocial.co.uk)
+**Admission:** Free
+
+---
+
+**Date/Time:** 10 May, 7.30PM
+**Venue:** The Gallery. 455 Smithdown Road, L15 3JL
+**Featuring:** Frank Griffith and Poetrio. Mike Hughes, drums, Ben Parkinson, Keys. Jazz amongst the Poets
+**Info:** [www.smithdownsocial.co.uk](http://www.smithdownsocial.co.uk)
+**Admission:** Free
+
+---
+
+**Date/Time:** 12 May, 3-5PM
+**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
+**Featuring:** Frank Griffith Trio
+**Info:** 0151 929 2492
+**Admission:** Free
+
+---
+
+**Date/Time:** 7 July, 3-5PM
+**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
+**Featuring:** Frank Griffith Trio
+**Info:** 0151 929 2492
+**Admission:** Free
+
+---
+
+**Date/Time:** 13 July, 8PM
+**Venue:** Zeffirelli's. Compston Road, Ambleside, Cumbria, LA22 9AD
+**Featuring:** Frank Griffith Trio with Mike Hughes- vibraphone, Tom Sykes piano
+**Info:** [www.zeffirellis.com](http://www.zeffirellis.com), 01539 433845
+**Admission:** £4
+
+---
+
+**Date/Time:** 27 October, 3-5PM
+**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
+**Featuring:** Frank Griffith Trio
+**Info:** 0151 929 2492
+**Admission:** Free
+
+---
+
+**Date/Time:** 1 September, 3-5PM
+**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
+**Featuring:** Frank Griffith Trio
+**Info:** 0151 929 2492
+**Admission:** Free
+
+---
+
+**Date/Time:** 5 November, 8PM
+**Venue:** Morley Green Club. Mobberly Road, Wilmslow, Cheshire, SK9 SNT
+**Featuring:** Frank Griffith Nonet
+**Info:** 01625 525224
+**Admission:** Free
+
+---
+
+**Date/Time:** 22 December, 3-5PM
+**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
+**Featuring:** Frank Griffith Trio
+**Info:** 0151 929 2492
+**Admission:** Free
+
+---
+
 ### Harmony In Harlem
 
 Three concerts to look forward to!
