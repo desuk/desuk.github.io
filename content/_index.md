@@ -16,11 +16,25 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 # AGM 2024 - New Date!
 
-We're planning on having an Annual General Meeting on Saturday the 1st of June,
-at the Model Railway Club in central London. **Please note the new date**. More
-details closer to the time.  Please come along and get involved if you can -
-it's fun, honest! If you want to be involved, or join the committee, but can't
-attend, please get in touch with us anyway. We'll sort something out.
+Our AGM is taking place on Saturday the 1st of June in central London.
+
+We’re very excited for this opportunity for the membership to meet in person,
+and ideally get a few new faces on the Committee and helping to contribute to
+Blue Light and the society’s other activities such as our YouTube show Uptown
+Lockdown.
+
+We will get underway at 1pm at the Model Railway Club, Keen House, 4 Calshot St,
+London N1 9DA. This is a short walk from King’s Cross station.
+
+Please come along and get involved! If you’d like to join the Committee or
+otherwise make a contribution, and you’re not able to attend, please get in
+touch with us anyway. We’ll sort something out. Our Committee meetings take
+place via Zoom these days so proximity to London (or indeed proximity to Great
+Britain) is not required!
+
+If you're planning on attending, it helps to let us know. You can send us an
+email at {{<desuk_email>}} or sign up at the [Facebook
+event](https://fb.me/e/8r0KaWLmY).
 
 ## DESUK TV: Uptown Lockdown
 
