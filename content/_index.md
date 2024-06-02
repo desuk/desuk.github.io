@@ -16,7 +16,7 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 # AGM 2024
 
-Thanks to all who attended our [AGM]({{<relref "content/blog/agm2024.md">}}) on Saturday the 1st of June in central London, and congratulations to our new Committee!
+Thanks to all who attended our [AGM]({{<relref "blog/agm2024.md">}}) on Saturday the 1st of June in central London, and congratulations to our new Committee!
 
 ## DESUK TV: Uptown Lockdown
 
