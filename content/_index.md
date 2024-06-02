@@ -14,27 +14,9 @@ We meet regularly in London to listen and socialise, and new arrivals are always
 
 Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterly. The content is wide ranging and we are fortunate to have amongst our members jazz authors, journalists and critics, and equally fortunate to have many enthusiastic members who, because of their own deep interest, have become expert in particular niches of Ellingtonia.
 
-# AGM 2024 - New Date!
+# AGM 2024
 
-Our AGM is taking place on Saturday the 1st of June in central London.
-
-We’re very excited for this opportunity for the membership to meet in person,
-and ideally get a few new faces on the Committee and helping to contribute to
-Blue Light and the society’s other activities such as our YouTube show Uptown
-Lockdown.
-
-We will get underway at 1pm at the Model Railway Club, Keen House, 4 Calshot St,
-London N1 9DA. This is a short walk from King’s Cross station.
-
-Please come along and get involved! If you’d like to join the Committee or
-otherwise make a contribution, and you’re not able to attend, please get in
-touch with us anyway. We’ll sort something out. Our Committee meetings take
-place via Zoom these days so proximity to London (or indeed proximity to Great
-Britain) is not required!
-
-If you're planning on attending, it helps to let us know. You can send us an
-email at {{<desuk_email>}} or sign up at the [Facebook
-event](https://fb.me/e/8r0KaWLmY).
+Thanks to all who attended our [AGM]({{<relref "content/blog/agm2024.md">}}) on Saturday the 1st of June in central London, and congratulations to our new Committee!
 
 ## DESUK TV: Uptown Lockdown
 
@@ -54,73 +36,8 @@ Many of our members are musicians who perform Ellington material:
 * Frank Griffith: saxophonist, clarinettist, composer and educator. Find out more at www.frankgriffith.co.uk.
 * Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->
 
-### New: North West Duke Ellington Orchestra
-The first gig by a new big band playing only Ellington/Strayhorn.
-25th March at 8pm. /
-Christ The King Parish Centre /
-Score Lane, Liverpool L16 6AW  /
-Free Entry.
-
-
 ### Frank Griffith Upcoming Gigs
 
-Please check www.frankgriffith.co.uk in case these details change.
-
-**Date/Time:** 3 March, 3-5PM
-**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
-**Featuring:** Frank Griffith Trio
-**Info:** 0151 929 2492
-**Admission:** Free
-
----
-
-**Date/Time:** 5 March, 9.30PM
-**Venue:** Frederiks Bar, 32 Hope Street, Liverpool, L1 9BX
-**Featuring:** Frank Griffith Nonet
-**Info:** [www.frederikshopestreet.com](http://www.frederikshopestreet.com)
-**Admission:** Free
-
----
-
-**Date/Time:** 1 April, 4PM
-**Venue:** Nantwich Festival. Crown Hotel, Nantwich High Street, CW5 SAS
-**Featuring:** Frank Griffith Trio with Richard Wetherall piano, Johnny Mac, bass
-**Info:** [www.nantwichjazz.com](http://www.nantwichjazz.com)
-**Admission:** Free
-
----
-
-**Date/Time:** 12 April, 7.30PM
-**Venue:** The Gallery. 455 Smithdown Road, L15 3JL
-**Featuring:** Frank Griffith and Poetrio. Mike Hughes, drums, Ben Parkinson, Keys. Jazz amongst the Poets
-**Info:** [www.smithdownsocial.co.uk](http://www.smithdownsocial.co.uk)
-**Admission:** Free
-
----
-
-**Date/Time:** 26 April, 7.30PM
-**Venue:** The Gallery. 455 Smithdown Road, L15 3JL
-**Featuring:** Frank Griffith and Poetrio. Mike Hughes, drums, Ben Parkinson, Keys. Jazz amongst the Poets
-**Info:** [www.smithdownsocial.co.uk](http://www.smithdownsocial.co.uk)
-**Admission:** Free
-
----
-
-**Date/Time:** 10 May, 7.30PM
-**Venue:** The Gallery. 455 Smithdown Road, L15 3JL
-**Featuring:** Frank Griffith and Poetrio. Mike Hughes, drums, Ben Parkinson, Keys. Jazz amongst the Poets
-**Info:** [www.smithdownsocial.co.uk](http://www.smithdownsocial.co.uk)
-**Admission:** Free
-
----
-
-**Date/Time:** 12 May, 3-5PM
-**Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
-**Featuring:** Frank Griffith Trio
-**Info:** 0151 929 2492
-**Admission:** Free
-
----
 
 **Date/Time:** 7 July, 3-5PM
 **Venue:** Hightown Pub and Kitchen, Alt Road, Hightown, Liverpool, L38 0BA
@@ -173,7 +90,6 @@ Please check www.frankgriffith.co.uk in case these details change.
 ### Harmony In Harlem
 
 Three concerts to look forward to!
-* Cambridge Saturday 23rd March
 * Ely Sat 15th June 2024
 * Harlow Sun 13th October 2024
 
