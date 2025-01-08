@@ -20,10 +20,7 @@ acclaimed for publishing articles by the world's most knowledgeable Ellington
 scholars and for giving space for voices with opposing viewpoints and
 backgrounds.
 
-You can read a sample article here:
-[*"Jazz, Revue and a Thriller" The Response of the Birmingham Press to Duke
-Ellington’s 1933 Tour*]({{<static "/Blue Light 27-3 Sample Article.pdf">}})
-, by Pedro Cravinho, Birmingham City University (PDF, 7.3MB).
+You can read a sample issue here: [Blue Light 31-1]({{<static "/Blue Light 31-1.pdf">}}) (PDF, 8.9MB).
 
 Blue Light is a premier benefit of membership to the Duke Ellington Society UK
 and members ([join here]({{<relref join>}})) can choose whether to receive
