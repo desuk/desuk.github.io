@@ -7,6 +7,4 @@ readmore: false
 ---
 DESUK is now on Twitter [@dukesocuk](https://twitter.com/dukesocuk)! Where better to start tweeting than *Flirtibird*?
 
-{{< tweet 1171499295851175940 >}}
-
 <!--more-->

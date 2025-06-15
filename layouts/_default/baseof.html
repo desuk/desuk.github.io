@@ -21,12 +21,9 @@
 	<link rel="stylesheet" href="{{ . | relURL }}">
 	{{- end }}
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not .Site.IsServer }}
-		{{ template "_internal/google_analytics_async.html" . }}
-	{{- end }}
-        {{ if .IsHome }}
-        <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/7b4bfc2b355709b9a0998add2/16d2fbe32b88e7fa252d4e7b9.js");</script>
-        {{ end }}
+    {{ if .IsHome }}
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/7b4bfc2b355709b9a0998add2/16d2fbe32b88e7fa252d4e7b9.js");</script>
+    {{ end }}
 </head>
 <body class="body">
 	<div class="container container--outer">
