@@ -16,13 +16,13 @@ Our house publication [Blue Light]({{<relref blue_light>}}) is released quarterl
 
 You can read a sample issue here: [Blue Light 31-1]({{<static "/Blue Light 31-1.pdf">}}) (PDF, 8.9MB).
 
-# AGM 2024
+# AGM 2025
 
-Thanks to all who attended our [AGM]({{<relref "blog/agm2024.md">}}) on Saturday the 1st of June in central London, and congratulations to our new Committee!
+Thanks to all who attended our [AGM]({{<relref "blog/agm2025.md">}}) via Zoom!
 
 ## DESUK TV: Uptown Lockdown
 
-Episodes are available [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
+Past episodes are available [on YouTube](https://www.youtube.com/channel/UCq3QqJgdSJwk4nlmnnaH42Q/).
 
 For more details on how to view and participate, or to make a donation to support the show, are on the [Uptown Lockdown]({{<relref uptown_lockdown>}}) page.
 

@@ -1,3 +1,7 @@
-public/
 _gen/
+.hugo_build.lock
+.vscode
+build/
+crud/
 desuk_preview/
+public/
