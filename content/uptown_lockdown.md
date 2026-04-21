@@ -3,7 +3,7 @@ title: Uptown Lockdown
 sidebar: true
 menu:
   main:
-    weight: 3
+    weight: 4
 
 ---
 

@@ -34,6 +34,18 @@ We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
+### Harmony In Harlem — Sunday 7th June 2026
+
+[Harmony In Harlem](https://www.harmonyinharlem.co.uk/concerts) are returning to **The Maltings, Ely** for an afternoon swing dance. Primarily for the swing dance community, but with seating for listeners, exhibition dances by the East Anglia Swing Troupe, a DJ in the intervals, and the bar open.
+
+**3pm Sunday 7th June** (doors 2:30pm)
+
+The Maltings, Ship Lane, Ely, CB7 4BB
+
+Tickets £17.50 — [book online](https://www.harmonyinharlem.co.uk/concerts)
+
+---
+
 Many of our members are musicians who perform Ellington material:
 * Frank Griffith: saxophonist, clarinettist, composer and educator. Find out more at www.frankgriffith.co.uk.
 * Quentin Bryar plays for the Louisiana Rhythm Kings. See [louisianarhythmkings.co.uk](http://louisianarhythmkings.co.uk/). <!-- https broken for this site -->

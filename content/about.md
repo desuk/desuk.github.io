@@ -1,11 +1,9 @@
 ---
 title: About
 sidebar: true
-menu: main
-
 menu:
   main:
-    weight: 0
+    weight: 2
 ---
 
 # Duke Ellington, by Roger Boyes

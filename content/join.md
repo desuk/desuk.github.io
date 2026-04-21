@@ -4,7 +4,7 @@ sidebar: true
 toc: false
 menu:
   main:
-    weight: 1
+    weight: 2
 
 ---
 # Why Join?
@@ -41,4 +41,3 @@ If you'd like to further support DESUK's work, you can make a donation via the b
 {{<paypal_donate>}}
 
 To donate via bank transfer, please get in touch with us via email at {{<desuk_email>}}. Please also contact us if you would be interested in sponsorship opportunities.
-
