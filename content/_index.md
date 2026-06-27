@@ -34,15 +34,28 @@ We're chatting online using Discord - join us at https://discord.gg/efQNUMa.
 
 Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellington.org.uk">Pop us an email</a> and we can publicise via our website.
 
-### Harmony In Harlem — Sunday 7th June 2026
+### Frank Griffith — Upcoming Gigs
 
-[Harmony In Harlem](https://www.harmonyinharlem.co.uk/concerts) are returning to **The Maltings, Ely** for an afternoon swing dance. Primarily for the swing dance community, but with seating for listeners, exhibition dances by the East Anglia Swing Troupe, a DJ in the intervals, and the bar open.
+DESUK member Frank Griffith has the following gigs coming up:
 
-**3pm Sunday 7th June** (doors 2:30pm)
+**11 July 2026, 8:30PM** — Ma Boyles, 7 Tower Gardens, The Strand, Liverpool L3 1LG
+Frank Griffith Trio — Free
+Info: [parrjazz.co.uk](http://www.parrjazz.co.uk)
 
-The Maltings, Ship Lane, Ely, CB7 4BB
+**16 July 2026, 8PM** — Tallulah's Emporium, 122 Victoria Road, New Brighton CH45 9LD
+Frank Griffith w/ Mike Hughes Trio — Free
+Tel: 0330 024 8362
 
-Tickets £17.50 — [book online](https://www.harmonyinharlem.co.uk/concerts)
+**18 July 2026, 8PM** — Hangar 34, Greenland St, Liverpool L1 0BS
+Frank Griffith playing with The Signatures (Northern Soul Band) — £22
+
+**8 September 2026, 8PM** — Morley Green Club, Mobberley Road, Wilmslow SK9 5NT
+Frank Griffith Nonet — £10
+Info: [morleygreenclub.co.uk](http://www.morleygreenclub.co.uk)
+
+**4 October 2026, 2–4PM** — Huddersfield Irish Centre, 86 Fitzwilliam St, Huddersfield HD1 5BB
+Frank Griffith w/ Andre Baranek, Ben Crosland, Dave Walsh — £16
+Info: [huddersfield-jazz.co.uk](http://www.huddersfield-jazz.co.uk)
 
 ---
 
