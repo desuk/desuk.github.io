@@ -38,24 +38,28 @@ Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellingt
 
 DESUK member Frank Griffith has the following gigs coming up:
 
-**11 July 2026, 8:30PM** — Ma Boyles, 7 Tower Gardens, The Strand, Liverpool L3 1LG
-Frank Griffith Trio — Free
-Info: [parrjazz.co.uk](http://www.parrjazz.co.uk)
-
-**16 July 2026, 8PM** — Tallulah's Emporium, 122 Victoria Road, New Brighton CH45 9LD
-Frank Griffith w/ Mike Hughes Trio — Free
-Tel: 0330 024 8362
-
-**18 July 2026, 8PM** — Hangar 34, Greenland St, Liverpool L1 0BS
-Frank Griffith playing with The Signatures (Northern Soul Band) — £22
-
-**8 September 2026, 8PM** — Morley Green Club, Mobberley Road, Wilmslow SK9 5NT
+**8 September 2026, 8PM** — Morley Green Club, Mobberley Road, Wilmslow, Cheshire SK9 5NT
 Frank Griffith Nonet — £10
 Info: [morleygreenclub.co.uk](http://www.morleygreenclub.co.uk)
+
+**26 September 2026, 8:30PM** — Ma Boyles, 7 Tower Gardens, The Strand, Liverpool L3 1LG
+Frank Griffith Trio with Johnny Mac (bass) and Paul Gregory (guitar) — Free
+Info: [parrjazz.co.uk](http://www.parrjazz.co.uk)
+
+**27 September 2026, 8:30PM** — Moor Club, 35 Heaton Moor Road, Heaton Moor, Stockport SK4 4PB
+Frank Griffith Quintet w/ Lee Hallam, Mike Hughes, Richard Wetherall, Dave Tompkins — £5
+Info: 07970 596727
 
 **4 October 2026, 2–4PM** — Huddersfield Irish Centre, 86 Fitzwilliam St, Huddersfield HD1 5BB
 Frank Griffith w/ Andre Baranek, Ben Crosland, Dave Walsh — £16
 Info: [huddersfield-jazz.co.uk](http://www.huddersfield-jazz.co.uk)
+
+**7 October 2026, 7–9PM** — Longton Rugby Club, Eastern Rise, Stoke-on-Trent ST4 8WG
+Frank Griffith w/ Peter Robinson Trio — £5
+
+**29 October 2026, 8PM** — Cheshire Cheese, 2 Wallasey Village, Wallasey CH44 2DH
+Frank Griffith Nonet — Free
+Info: [mikehughesjazz.com](http://www.mikehughesjazz.com)
 
 ---
 
