@@ -38,28 +38,24 @@ Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellingt
 
 DESUK member Frank Griffith has the following gigs coming up:
 
-**8 September 2026, 8PM** — Morley Green Club, Mobberley Road, Wilmslow, Cheshire SK9 5NT
-Frank Griffith Nonet — £10
-Info: [morleygreenclub.co.uk](http://www.morleygreenclub.co.uk)
-
-**26 September 2026, 8:30PM** — Ma Boyles, 7 Tower Gardens, The Strand, Liverpool L3 1LG
-Frank Griffith Trio with Johnny Mac (bass) and Paul Gregory (guitar) — Free
-Info: [parrjazz.co.uk](http://www.parrjazz.co.uk)
-
-**27 September 2026, 8:30PM** — Moor Club, 35 Heaton Moor Road, Heaton Moor, Stockport SK4 4PB
-Frank Griffith Quintet w/ Lee Hallam, Mike Hughes, Richard Wetherall, Dave Tompkins — £5
-Info: 07970 596727
-
-**4 October 2026, 2–4PM** — Huddersfield Irish Centre, 86 Fitzwilliam St, Huddersfield HD1 5BB
-Frank Griffith w/ Andre Baranek, Ben Crosland, Dave Walsh — £16
-Info: [huddersfield-jazz.co.uk](http://www.huddersfield-jazz.co.uk)
-
-**7 October 2026, 7–9PM** — Longton Rugby Club, Eastern Rise, Stoke-on-Trent ST4 8WG
-Frank Griffith w/ Peter Robinson Trio — £5
-
 **29 October 2026, 8PM** — Cheshire Cheese, 2 Wallasey Village, Wallasey CH44 2DH
 Frank Griffith Nonet — Free
 Info: [mikehughesjazz.com](http://www.mikehughesjazz.com)
+
+### Harmony In Harlem — Upcoming Concerts
+
+Harmony In Harlem has the following concerts coming up:
+
+**Friday 20 November 2026** — St Andrew's Street Baptist Church, Cambridge CB2 3AR
+Supported by Cambridge Jazz Festival — £17.50 (18+)
+Tickets: on the door or [online](https://www.harmonyinharlem.co.uk/concerts)
+
+**Sunday 29 November 2026, 3PM** — St John's ARC, St John's Walk, Market Street, Old Harlow CM17 0AJ
+An afternoon of Duke Ellington and Billy Strayhorn, with new feature pieces for soloists and new songs for vocalist Jane Mayo — £17.50 (18+)
+Tickets: on the door (cash only) or [online](https://www.harmonyinharlem.co.uk/concerts) (cards)
+Tel: 01279 442447 or 01279 417575
+
+More info: [harmonyinharlem.co.uk](https://www.harmonyinharlem.co.uk/) · [Facebook event (20 Nov)](https://www.facebook.com/events/1785325232706741/) · [Facebook event (29 Nov)](https://www.facebook.com/events/3453144791532006/)
 
 ---
 
