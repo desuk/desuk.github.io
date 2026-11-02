@@ -38,9 +38,32 @@ Got a gig coming up with an Ellington element? <a href="mailto:desuk@dukeellingt
 
 DESUK member Frank Griffith has the following gigs coming up:
 
-**29 October 2026, 8PM** — Cheshire Cheese, 2 Wallasey Village, Wallasey CH44 2DH
+**21 November 2026, 8:30PM** — Ma Boyles, 7 Tower Gardens, The Strand, Liverpool L3 1LG
+Frank Griffith with Johnny Mac, James Chadwick, Mike Hughes — Free
+Info: [parrjazz.co.uk](http://www.parrjazz.co.uk)
+
+**22 November 2026, 5–7PM** — The Cheese Cellar, 114 Allerton Road, Liverpool L18 8AG
+Frank Griffith with Michael Cearns (piano) — Free
+Info: [thecheesecellar.co.uk](http://www.thecheesecellar.co.uk)
+
+**13 December 2026, 5–7PM** — The Cheese Cellar, 114 Allerton Road, Liverpool L18 8AG
+Frank Griffith Trio — Free
+Info: [thecheesecellar.co.uk](http://www.thecheesecellar.co.uk)
+
+**4 February 2027, 8PM** — Cheshire Cheese, 2 Wallasey Village, Wallasey CH44 2DH
 Frank Griffith Nonet — Free
 Info: [mikehughesjazz.com](http://www.mikehughesjazz.com)
+
+**25 March 2027, 8PM** — Carlisle Rugby Club, Warwick Road, Carlisle, Cumbria CA1 1LW
+Frank Griffith w/ Lucy Lockwood, Dean Stockdale, Dave Tompkins — £10
+
+**8 April 2027, 8PM** — Heron Theatre, Stanley Street, Beetham, Cumbria LA7 7AS
+Frank Griffith w/ Richard Wetherall, Dave Tompkins, Gaz Hughes — songs from Ellington and Strayhorn — £10
+Info: [theherontheatre.com](http://www.theherontheatre.com)
+
+**10 April 2027, 8PM** — Zeffirellis, Compston Road, Ambleside, Cumbria LA22 9AD
+Frank Griffith w/ Richard Wetherall and Dave Tompkins — £10
+Info: [zeffirellis.com](http://www.zeffirellis.com)
 
 ### Harmony In Harlem — Upcoming Concerts
 
