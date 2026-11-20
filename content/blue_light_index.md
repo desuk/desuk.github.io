@@ -9,6 +9,30 @@ menu:
 The contents of past issues of [Blue Light]({{<relref "blue_light">}}), the
 journal of the Duke Ellington Society UK, most recent first.
 
+## 2026
+
+### Volume 33 / 2
+
+* Sonny Rollins obituary
+* Abdullah Ibrahim obituary
+* Duke Ellington’s First Hollywood Full-Length Film Score: Anatomy of a Murder, 1959 (Fred Glueckstein)
+* Henry Blankfort Interview Part 1 (Danny Caine)
+* Revealing The Clothed Woman (Scott Healy)
+* 1936: Year of the Four Concertos (Gareth Evans)
+
+### Volume 33 / 1
+
+* Mike Westbrook Remembered (Quentin Bryar)
+* A Tribute to Mike Westbrook (Chris Briscoe)
+* Duke’s Friend Black Bowie (Steve Bowie)
+* Duke Ellington, Elmer Snowden and The Washingtonians (Fred Glueckstein)
+* In Review: Conservatively Hip
+* Blue Note Memories Part 2 (Danny Caine)
+* Suddenly It Jumped – For Billy Strayhorn (Robin Thomas)
+* South of the Border (Gareth Evans)
+* Greatest Duke Ellington Big Band Recordings (Jack Chambers)
+* June 1931: A Jazz Master In Transition (Gareth Evans)
+
 ## 2025
 
 ### Volume 32 / 3
